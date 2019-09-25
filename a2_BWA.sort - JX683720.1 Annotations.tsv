@@ -1,0 +1,2100 @@
+Name	Type	Minimum	Maximum	Length	Change	Coverage	Polymorphism Type	Variant Frequency
+A	Polymorphism	795	795	1	T -> A	111904	SNP (transversion)	0.04%
+C	Polymorphism	795	795	1	T -> C	111904	SNP (transition)	0.2%
+G	Polymorphism	795	795	1	T -> G	111904	SNP (transversion)	0.02%
+A	Polymorphism	794	794	1	C -> A	127564	SNP (transversion)	0.02%
+G	Polymorphism	794	794	1	C -> G	127564	SNP (transversion)	0.01%
+T	Polymorphism	794	794	1	C -> T	127564	SNP (transition)	0.1%
+C	Polymorphism	793	793	1	A -> C	129646	SNP (transversion)	0.02%
+G	Polymorphism	793	793	1	A -> G	129646	SNP (transition)	0.3%
+T	Polymorphism	793	793	1	A -> T	129646	SNP (transversion)	0.03%
+A	Polymorphism	792	792	1	G -> A	131471	SNP (transition)	0.05%
+C	Polymorphism	792	792	1	G -> C	131471	SNP (transversion)	0.01%
+T	Polymorphism	792	792	1	G -> T	131471	SNP (transversion)	0.01%
+G	Polymorphism	792	791	0	+G	131471	Insertion	0.001%
+C	Polymorphism	791	791	1	A -> C	134517	SNP (transversion)	0.02%
+G	Polymorphism	791	791	1	A -> G	134517	SNP (transition)	0.3%
+T	Polymorphism	791	791	1	A -> T	134517	SNP (transversion)	0.1%
+	Polymorphism	791	791	1	-A	134517	Deletion	0.1%
+A	Polymorphism	791	790	0	+A	134517	Insertion	0.001%
+A	Polymorphism	790	790	1	C -> A	136452	SNP (transversion)	0.02%
+G	Polymorphism	790	790	1	C -> G	136452	SNP (transversion)	0.004%
+T	Polymorphism	790	790	1	C -> T	136452	SNP (transition)	0.1%
+	Polymorphism	790	790	1	-C	136452	Deletion	0.01%
+C	Polymorphism	789	789	1	A -> C	139616	SNP (transversion)	0.01%
+G	Polymorphism	789	789	1	A -> G	139616	SNP (transition)	0.3%
+T	Polymorphism	789	789	1	A -> T	139616	SNP (transversion)	0.03%
+	Polymorphism	789	789	1	-A	139616	Deletion	0.1%
+A	Polymorphism	788	788	1	C -> A	140938	SNP (transversion)	0.01%
+G	Polymorphism	788	788	1	C -> G	140938	SNP (transversion)	0.003%
+T	Polymorphism	788	788	1	C -> T	140938	SNP (transition)	0.1%
+	Polymorphism	788	788	1	-C	140938	Deletion	0.02%
+C	Polymorphism	787	787	1	A -> C	142904	SNP (transversion)	0.1%
+G	Polymorphism	787	787	1	A -> G	142904	SNP (transition)	0.3%
+T	Polymorphism	787	787	1	A -> T	142904	SNP (transversion)	0.04%
+	Polymorphism	787	787	1	-A	142904	Deletion	0.01%
+A	Polymorphism	786	786	1	G -> A	143893	SNP (transition)	0.1%
+C	Polymorphism	786	786	1	G -> C	143893	SNP (transversion)	0.01%
+T	Polymorphism	786	786	1	G -> T	143893	SNP (transversion)	0.01%
+	Polymorphism	786	786	1	-G	143893	Deletion	0.05%
+C	Polymorphism	785	785	1	A -> C	144225	SNP (transversion)	0.01%
+G	Polymorphism	785	785	1	A -> G	144225	SNP (transition)	0.2%
+T	Polymorphism	785	785	1	A -> T	144225	SNP (transversion)	0.05%
+	Polymorphism	785	785	1	-A	144225	Deletion	0.01%
+A	Polymorphism	784	784	1	G -> A	145421	SNP (transition)	0.1%
+C	Polymorphism	784	784	1	G -> C	145421	SNP (transversion)	0.01%
+T	Polymorphism	784	784	1	G -> T	145421	SNP (transversion)	0.03%
+	Polymorphism	784	784	1	-G	145421	Deletion	0.001%
+A	Polymorphism	783	783	1	G -> A	146203	SNP (transition)	0.1%
+C	Polymorphism	783	783	1	G -> C	146203	SNP (transversion)	0.003%
+T	Polymorphism	783	783	1	G -> T	146203	SNP (transversion)	0.02%
+	Polymorphism	783	783	1	-G	146203	Deletion	0.01%
+G	Polymorphism	783	782	0	(G)2 -> (G)3	146203	Insertion (tandem repeat)	0.03%
+A	Polymorphism	782	782	1	T -> A	147829	SNP (transversion)	0.1%
+C	Polymorphism	782	782	1	T -> C	147829	SNP (transition)	0.2%
+G	Polymorphism	782	782	1	T -> G	147829	SNP (transversion)	0.01%
+	Polymorphism	782	782	1	-T	147829	Deletion	0.001%
+C	Polymorphism	781	781	1	A -> C	148659	SNP (transversion)	0.01%
+G	Polymorphism	781	781	1	A -> G	148659	SNP (transition)	0.2%
+T	Polymorphism	781	781	1	A -> T	148659	SNP (transversion)	0.04%
+	Polymorphism	781	781	1	-A	148659	Deletion	0.03%
+A	Polymorphism	780	780	1	G -> A	149353	SNP (transition)	0.1%
+C	Polymorphism	780	780	1	G -> C	149353	SNP (transversion)	0.01%
+T	Polymorphism	780	780	1	G -> T	149353	SNP (transversion)	0.02%
+	Polymorphism	780	780	1	-G	149353	Deletion	0.03%
+G	Polymorphism	780	779	0	+G	149353	Insertion	0.001%
+A	Polymorphism	779	779	1	T -> A	151292	SNP (transversion)	0.03%
+C	Polymorphism	779	779	1	T -> C	151292	SNP (transition)	0.2%
+G	Polymorphism	779	779	1	T -> G	151292	SNP (transversion)	0.02%
+	Polymorphism	779	779	1	-T	151292	Deletion	0.1%
+C	Polymorphism	778	778	1	A -> C	152549	SNP (transversion)	0.02%
+G	Polymorphism	778	778	1	A -> G	152549	SNP (transition)	0.2%
+T	Polymorphism	778	778	1	A -> T	152549	SNP (transversion)	0.02%
+	Polymorphism	778	778	1	-A	152549	Deletion	0.02%
+A	Polymorphism	777	777	1	G -> A	153696	SNP (transition)	0.1%
+C	Polymorphism	777	777	1	G -> C	153696	SNP (transversion)	0.01%
+T	Polymorphism	777	777	1	G -> T	153696	SNP (transversion)	0.01%
+	Polymorphism	777	777	1	-G	153696	Deletion	0.02%
+A	Polymorphism	776	776	1	G -> A	160166	SNP (transition)	0.1%
+C	Polymorphism	776	776	1	G -> C	160166	SNP (transversion)	0.01%
+T	Polymorphism	776	776	1	G -> T	160166	SNP (transversion)	0.02%
+	Polymorphism	776	776	1	-G	160166	Deletion	0.02%
+C	Polymorphism	775	775	1	A -> C	163944	SNP (transversion)	0.03%
+G	Polymorphism	775	775	1	A -> G	163944	SNP (transition)	0.3%
+T	Polymorphism	775	775	1	A -> T	163944	SNP (transversion)	0.1%
+	Polymorphism	775	775	1	-A	163944	Deletion	0.01%
+C	Polymorphism	774	774	1	A -> C	164689	SNP (transversion)	0.003%
+G	Polymorphism	774	774	1	A -> G	164689	SNP (transition)	0.2%
+T	Polymorphism	774	774	1	A -> T	164689	SNP (transversion)	0.02%
+	Polymorphism	774	774	1	-A	164689	Deletion	0.1%
+A	Polymorphism	774	773	0	(A)2 -> (A)3	164689	Insertion (tandem repeat)	0.002%
+A	Polymorphism	773	773	1	C -> A	165025	SNP (transversion)	0.1%
+G	Polymorphism	773	773	1	C -> G	165025	SNP (transversion)	0.01%
+T	Polymorphism	773	773	1	C -> T	165025	SNP (transition)	0.3%
+	Polymorphism	773	773	1	-C	165025	Deletion	0.1%
+C	Polymorphism	772	772	1	A -> C	166272	SNP (transversion)	0.3%
+G	Polymorphism	772	772	1	A -> G	166272	SNP (transition)	0.4%
+T	Polymorphism	772	772	1	A -> T	166272	SNP (transversion)	0.1%
+	Polymorphism	772	772	1	-A	166272	Deletion	0.1%
+A	Polymorphism	771	771	1	C -> A	166522	SNP (transversion)	0.02%
+G	Polymorphism	771	771	1	C -> G	166522	SNP (transversion)	0.02%
+T	Polymorphism	771	771	1	C -> T	166522	SNP (transition)	0.8%
+	Polymorphism	771	771	1	-C	166522	Deletion	0.002%
+A	Polymorphism	770	770	1	G -> A	167648	SNP (transition)	0.2%
+C	Polymorphism	770	770	1	G -> C	167648	SNP (transversion)	0.01%
+T	Polymorphism	770	770	1	G -> T	167648	SNP (transversion)	0.01%
+A	Polymorphism	769	769	1	T -> A	167851	SNP (transversion)	0.02%
+C	Polymorphism	769	769	1	T -> C	167851	SNP (transition)	0.3%
+G	Polymorphism	769	769	1	T -> G	167851	SNP (transversion)	0.1%
+C	Polymorphism	768	768	1	A -> C	168006	SNP (transversion)	0.01%
+G	Polymorphism	768	768	1	A -> G	168006	SNP (transition)	0.3%
+T	Polymorphism	768	768	1	A -> T	168006	SNP (transversion)	0.04%
+A	Polymorphism	767	767	1	C -> A	168165	SNP (transversion)	0.1%
+G	Polymorphism	767	767	1	C -> G	168165	SNP (transversion)	0.002%
+T	Polymorphism	767	767	1	C -> T	168165	SNP (transition)	0.1%
+	Polymorphism	767	767	1	-C	168165	Deletion	0.001%
+A	Polymorphism	766	766	1	T -> A	168361	SNP (transversion)	0.05%
+C	Polymorphism	766	766	1	T -> C	168361	SNP (transition)	0.3%
+G	Polymorphism	766	766	1	T -> G	168361	SNP (transversion)	0.01%
+	Polymorphism	766	766	1	-T	168361	Deletion	0.002%
+A	Polymorphism	765	765	1	T -> A	168889	SNP (transversion)	0.03%
+C	Polymorphism	765	765	1	T -> C	168889	SNP (transition)	0.4%
+G	Polymorphism	765	765	1	T -> G	168889	SNP (transversion)	0.01%
+	Polymorphism	765	765	1	-T	168889	Deletion	0.01%
+A	Polymorphism	764	764	1	C -> A	169160	SNP (transversion)	0.1%
+G	Polymorphism	764	764	1	C -> G	169160	SNP (transversion)	0.01%
+T	Polymorphism	764	764	1	C -> T	169160	SNP (transition)	0.3%
+A	Polymorphism	763	763	1	T -> A	169433	SNP (transversion)	0.04%
+C	Polymorphism	763	763	1	T -> C	169433	SNP (transition)	0.3%
+G	Polymorphism	763	763	1	T -> G	169433	SNP (transversion)	0.01%
+A	Polymorphism	762	762	1	C -> A	169622	SNP (transversion)	0.02%
+G	Polymorphism	762	762	1	C -> G	169622	SNP (transversion)	0.01%
+T	Polymorphism	762	762	1	C -> T	169622	SNP (transition)	0.1%
+	Polymorphism	762	762	1	-C	169622	Deletion	0.001%
+A	Polymorphism	761	761	1	T -> A	169990	SNP (transversion)	0.04%
+C	Polymorphism	761	761	1	T -> C	169990	SNP (transition)	0.3%
+G	Polymorphism	761	761	1	T -> G	169990	SNP (transversion)	0.01%
+	Polymorphism	761	761	1	-T	169990	Deletion	0.001%
+A	Polymorphism	760	760	1	G -> A	170217	SNP (transition)	0.1%
+C	Polymorphism	760	760	1	G -> C	170217	SNP (transversion)	0.02%
+T	Polymorphism	760	760	1	G -> T	170217	SNP (transversion)	0.02%
+A	Polymorphism	759	759	1	G -> A	170425	SNP (transition)	0.3%
+C	Polymorphism	759	759	1	G -> C	170425	SNP (transversion)	0.01%
+T	Polymorphism	759	759	1	G -> T	170425	SNP (transversion)	0.03%
+	Polymorphism	759	759	1	-G	170425	Deletion	0.1%
+A	Polymorphism	758	758	1	T -> A	170559	SNP (transversion)	0.1%
+C	Polymorphism	758	758	1	T -> C	170559	SNP (transition)	0.2%
+G	Polymorphism	758	758	1	T -> G	170559	SNP (transversion)	0.04%
+	Polymorphism	758	758	1	-T	170559	Deletion	0.01%
+A	Polymorphism	757	757	1	G -> A	170636	SNP (transition)	0.1%
+C	Polymorphism	757	757	1	G -> C	170636	SNP (transversion)	0.02%
+T	Polymorphism	757	757	1	G -> T	170636	SNP (transversion)	0.03%
+	Polymorphism	757	757	1	-G	170636	Deletion	0.004%
+A	Polymorphism	756	756	1	G -> A	170638	SNP (transition)	0.3%
+C	Polymorphism	756	756	1	G -> C	170638	SNP (transversion)	0.01%
+T	Polymorphism	756	756	1	G -> T	170638	SNP (transversion)	0.03%
+	Polymorphism	756	756	1	-G	170638	Deletion	0.02%
+A	Polymorphism	755	755	1	T -> A	170886	SNP (transversion)	0.1%
+C	Polymorphism	755	755	1	T -> C	170886	SNP (transition)	0.2%
+G	Polymorphism	755	755	1	T -> G	170886	SNP (transversion)	0.1%
+	Polymorphism	755	755	1	-T	170886	Deletion	0.002%
+A	Polymorphism	754	754	1	G -> A	171003	SNP (transition)	0.05%
+C	Polymorphism	754	754	1	G -> C	171003	SNP (transversion)	0.005%
+T	Polymorphism	754	754	1	G -> T	171003	SNP (transversion)	0.02%
+	Polymorphism	754	754	1	-G	171003	Deletion	0.002%
+A	Polymorphism	753	753	1	G -> A	171161	SNP (transition)	0.1%
+C	Polymorphism	753	753	1	G -> C	171161	SNP (transversion)	0.002%
+T	Polymorphism	753	753	1	G -> T	171161	SNP (transversion)	0.02%
+	Polymorphism	753	753	1	-G	171161	Deletion	0.002%
+C	Polymorphism	752	752	1	A -> C	171191	SNP (transversion)	0.01%
+G	Polymorphism	752	752	1	A -> G	171191	SNP (transition)	0.2%
+T	Polymorphism	752	752	1	A -> T	171191	SNP (transversion)	0.03%
+C	Polymorphism	751	751	1	A -> C	171328	SNP (transversion)	0.01%
+G	Polymorphism	751	751	1	A -> G	171328	SNP (transition)	0.2%
+T	Polymorphism	751	751	1	A -> T	171328	SNP (transversion)	0.01%
+	Polymorphism	751	751	1	-A	171328	Deletion	0.04%
+A	Polymorphism	750	750	1	T -> A	171374	SNP (transversion)	0.03%
+C	Polymorphism	750	750	1	T -> C	171374	SNP (transition)	0.2%
+G	Polymorphism	750	750	1	T -> G	171374	SNP (transversion)	0.01%
+	Polymorphism	750	750	1	-T	171374	Deletion	0.004%
+A	Polymorphism	749	749	1	C -> A	171405	SNP (transversion)	0.1%
+G	Polymorphism	749	749	1	C -> G	171405	SNP (transversion)	0.01%
+T	Polymorphism	749	749	1	C -> T	171405	SNP (transition)	0.1%
+	Polymorphism	749	749	1	-C	171405	Deletion	0.01%
+A	Polymorphism	748	748	1	T -> A	171447	SNP (transversion)	0.02%
+C	Polymorphism	748	748	1	T -> C	171447	SNP (transition)	0.3%
+G	Polymorphism	748	748	1	T -> G	171447	SNP (transversion)	0.01%
+	Polymorphism	748	748	1	-T	171447	Deletion	0.002%
+A	Polymorphism	747	747	1	T -> A	171641	SNP (transversion)	0.02%
+C	Polymorphism	747	747	1	T -> C	171641	SNP (transition)	0.8%
+G	Polymorphism	747	747	1	T -> G	171641	SNP (transversion)	0.01%
+	Polymorphism	747	747	1	-T	171641	Deletion	0.004%
+A	Polymorphism	746	746	1	G -> A	171839	SNP (transition)	0.1%
+C	Polymorphism	746	746	1	G -> C	171839	SNP (transversion)	0.002%
+T	Polymorphism	746	746	1	G -> T	171839	SNP (transversion)	0.01%
+A	Polymorphism	745	745	1	T -> A	171898	SNP (transversion)	0.01%
+C	Polymorphism	745	745	1	T -> C	171898	SNP (transition)	0.2%
+G	Polymorphism	745	745	1	T -> G	171898	SNP (transversion)	0.01%
+C	Polymorphism	744	744	1	A -> C	171865	SNP (transversion)	0.01%
+G	Polymorphism	744	744	1	A -> G	171865	SNP (transition)	0.3%
+T	Polymorphism	744	744	1	A -> T	171865	SNP (transversion)	0.02%
+C	Polymorphism	743	743	1	A -> C	171750	SNP (transversion)	0.01%
+G	Polymorphism	743	743	1	A -> G	171750	SNP (transition)	0.2%
+T	Polymorphism	743	743	1	A -> T	171750	SNP (transversion)	0.04%
+	Polymorphism	743	743	1	(A)3 -> (A)2	171750	Deletion (tandem repeat)	0.001%
+C	Polymorphism	742	742	1	A -> C	171726	SNP (transversion)	0.01%
+G	Polymorphism	742	742	1	A -> G	171726	SNP (transition)	0.3%
+T	Polymorphism	742	742	1	A -> T	171726	SNP (transversion)	0.04%
+	Polymorphism	742	742	1	(A)3 -> (A)2	171726	Deletion (tandem repeat)	0.1%
+A	Polymorphism	741	741	1	T -> A	171689	SNP (transversion)	0.03%
+C	Polymorphism	741	741	1	T -> C	171689	SNP (transition)	0.2%
+G	Polymorphism	741	741	1	T -> G	171689	SNP (transversion)	0.01%
+	Polymorphism	741	741	1	-T	171689	Deletion	0.003%
+A	Polymorphism	740	740	1	C -> A	171463	SNP (transversion)	0.3%
+G	Polymorphism	740	740	1	C -> G	171463	SNP (transversion)	0.003%
+T	Polymorphism	740	740	1	C -> T	171463	SNP (transition)	0.1%
+A	Polymorphism	739	739	1	C -> A	171586	SNP (transversion)	0.1%
+G	Polymorphism	739	739	1	C -> G	171586	SNP (transversion)	0.01%
+T	Polymorphism	739	739	1	C -> T	171586	SNP (transition)	0.1%
+	Polymorphism	739	739	1	-C	171586	Deletion	0.001%
+A	Polymorphism	738	738	1	G -> A	172112	SNP (transition)	0.1%
+C	Polymorphism	738	738	1	G -> C	172112	SNP (transversion)	0.002%
+T	Polymorphism	738	738	1	G -> T	172112	SNP (transversion)	0.01%
+A	Polymorphism	737	737	1	T -> A	172261	SNP (transversion)	0.04%
+C	Polymorphism	737	737	1	T -> C	172261	SNP (transition)	0.3%
+G	Polymorphism	737	737	1	T -> G	172261	SNP (transversion)	0.01%
+C	Polymorphism	736	736	1	A -> C	172317	SNP (transversion)	0.01%
+G	Polymorphism	736	736	1	A -> G	172317	SNP (transition)	0.2%
+T	Polymorphism	736	736	1	A -> T	172317	SNP (transversion)	0.03%
+	Polymorphism	736	736	1	-A	172317	Deletion	0.003%
+A	Polymorphism	735	735	1	T -> A	172337	SNP (transversion)	0.03%
+C	Polymorphism	735	735	1	T -> C	172337	SNP (transition)	0.2%
+G	Polymorphism	735	735	1	T -> G	172337	SNP (transversion)	0.03%
+	Polymorphism	735	735	1	(T)3 -> (T)2	172337	Deletion (tandem repeat)	0.003%
+A	Polymorphism	734	734	1	T -> A	172330	SNP (transversion)	0.03%
+C	Polymorphism	734	734	1	T -> C	172330	SNP (transition)	0.2%
+G	Polymorphism	734	734	1	T -> G	172330	SNP (transversion)	0.03%
+	Polymorphism	734	734	1	(T)3 -> (T)2	172330	Deletion (tandem repeat)	0.001%
+A	Polymorphism	733	733	1	T -> A	172283	SNP (transversion)	0.03%
+C	Polymorphism	733	733	1	T -> C	172283	SNP (transition)	0.2%
+G	Polymorphism	733	733	1	T -> G	172283	SNP (transversion)	0.03%
+	Polymorphism	733	733	1	(T)3 -> (T)2	172283	Deletion (tandem repeat)	0.04%
+A	Polymorphism	732	732	1	C -> A	172197	SNP (transversion)	0.1%
+G	Polymorphism	732	732	1	C -> G	172197	SNP (transversion)	0.02%
+T	Polymorphism	732	732	1	C -> T	172197	SNP (transition)	0.1%
+A	Polymorphism	731	731	1	G -> A	172366	SNP (transition)	0.3%
+C	Polymorphism	731	731	1	G -> C	172366	SNP (transversion)	0.003%
+T	Polymorphism	731	731	1	G -> T	172366	SNP (transversion)	0.01%
+A	Polymorphism	730	730	1	G -> A	172327	SNP (transition)	0.05%
+C	Polymorphism	730	730	1	G -> C	172327	SNP (transversion)	0.002%
+T	Polymorphism	730	730	1	G -> T	172327	SNP (transversion)	0.02%
+	Polymorphism	730	730	1	-G	172327	Deletion	0.005%
+C	Polymorphism	729	729	1	A -> C	172108	SNP (transversion)	0.01%
+G	Polymorphism	729	729	1	A -> G	172108	SNP (transition)	0.2%
+T	Polymorphism	729	729	1	A -> T	172108	SNP (transversion)	0.05%
+	Polymorphism	729	729	1	-A	172108	Deletion	0.003%
+A	Polymorphism	728	728	1	C -> A	172013	SNP (transversion)	0.02%
+G	Polymorphism	728	728	1	C -> G	172013	SNP (transversion)	0.01%
+T	Polymorphism	728	728	1	C -> T	172013	SNP (transition)	0.1%
+	Polymorphism	728	728	1	-C	172013	Deletion	0.003%
+A	Polymorphism	727	727	1	T -> A	171924	SNP (transversion)	0.1%
+C	Polymorphism	727	727	1	T -> C	171924	SNP (transition)	0.3%
+G	Polymorphism	727	727	1	T -> G	171924	SNP (transversion)	0.01%
+Y	Editing History Replacement	726	726	1				
+A	Polymorphism	726	726	1	T -> A	171948	SNP (transversion)	0.02%
+C	Polymorphism	726	726	1	T -> C	171948	SNP (transition)	0.3%
+G	Polymorphism	726	726	1	T -> G	171948	SNP (transversion)	0.02%
+	Polymorphism	726	726	1	-T	171948	Deletion	0.002%
+C	Polymorphism	725	725	1	A -> C	171851	SNP (transversion)	0.004%
+G	Polymorphism	725	725	1	A -> G	171851	SNP (transition)	0.2%
+T	Polymorphism	725	725	1	A -> T	171851	SNP (transversion)	0.02%
+A	Polymorphism	724	724	1	T -> A	171742	SNP (transversion)	0.02%
+C	Polymorphism	724	724	1	T -> C	171742	SNP (transition)	0.1%
+G	Polymorphism	724	724	1	T -> G	171742	SNP (transversion)	0.02%
+A	Polymorphism	723	723	1	T -> A	171831	SNP (transversion)	0.03%
+C	Polymorphism	723	723	1	T -> C	171831	SNP (transition)	0.2%
+G	Polymorphism	723	723	1	T -> G	171831	SNP (transversion)	0.01%
+	Polymorphism	723	723	1	-T	171831	Deletion	0.003%
+C	Polymorphism	722	722	1	A -> C	171645	SNP (transversion)	0.01%
+G	Polymorphism	722	722	1	A -> G	171645	SNP (transition)	0.3%
+T	Polymorphism	722	722	1	A -> T	171645	SNP (transversion)	0.02%
+C	Polymorphism	721	721	1	A -> C	171587	SNP (transversion)	0.003%
+G	Polymorphism	721	721	1	A -> G	171587	SNP (transition)	0.2%
+T	Polymorphism	721	721	1	A -> T	171587	SNP (transversion)	0.04%
+	Polymorphism	721	721	1	(A)3 -> (A)2	171587	Deletion (tandem repeat)	0.01%
+C	Polymorphism	720	720	1	A -> C	171433	SNP (transversion)	0.01%
+G	Polymorphism	720	720	1	A -> G	171433	SNP (transition)	0.4%
+T	Polymorphism	720	720	1	A -> T	171433	SNP (transversion)	0.04%
+	Polymorphism	720	720	1	(A)3 -> (A)2	171433	Deletion (tandem repeat)	0.02%
+A	Polymorphism	719	719	1	C -> A	171386	SNP (transversion)	0.01%
+G	Polymorphism	719	719	1	C -> G	171386	SNP (transversion)	0.01%
+T	Polymorphism	719	719	1	C -> T	171386	SNP (transition)	0.1%
+C	Polymorphism	718	718	1	A -> C	171283	SNP (transversion)	0.01%
+G	Polymorphism	718	718	1	A -> G	171283	SNP (transition)	0.3%
+T	Polymorphism	718	718	1	A -> T	171283	SNP (transversion)	0.04%
+A	Polymorphism	717	717	1	C -> A	171191	SNP (transversion)	0.004%
+G	Polymorphism	717	717	1	C -> G	171191	SNP (transversion)	0.01%
+T	Polymorphism	717	717	1	C -> T	171191	SNP (transition)	0.2%
+	Polymorphism	717	717	1	-C	171191	Deletion	0.002%
+C	Polymorphism	716	716	1	A -> C	171121	SNP (transversion)	0.02%
+G	Polymorphism	716	716	1	A -> G	171121	SNP (transition)	0.3%
+T	Polymorphism	716	716	1	A -> T	171121	SNP (transversion)	0.1%
+	Polymorphism	716	716	1	-A	171121	Deletion	0.002%
+A	Polymorphism	715	715	1	G -> A	170910	SNP (transition)	0.1%
+C	Polymorphism	715	715	1	G -> C	170910	SNP (transversion)	0.01%
+T	Polymorphism	715	715	1	G -> T	170910	SNP (transversion)	0.03%
+	Polymorphism	715	715	1	-G	170910	Deletion	0.001%
+A	Polymorphism	714	714	1	T -> A	170831	SNP (transversion)	0.1%
+C	Polymorphism	714	714	1	T -> C	170831	SNP (transition)	0.2%
+G	Polymorphism	714	714	1	T -> G	170831	SNP (transversion)	0.01%
+C	Polymorphism	713	713	1	A -> C	170810	SNP (transversion)	0.01%
+G	Polymorphism	713	713	1	A -> G	170810	SNP (transition)	0.3%
+T	Polymorphism	713	713	1	A -> T	170810	SNP (transversion)	0.02%
+C	Polymorphism	712	712	1	A -> C	170793	SNP (transversion)	0.01%
+G	Polymorphism	712	712	1	A -> G	170793	SNP (transition)	0.2%
+T	Polymorphism	712	712	1	A -> T	170793	SNP (transversion)	0.1%
+	Polymorphism	712	712	1	-A	170793	Deletion	0.02%
+A	Polymorphism	711	711	1	T -> A	170706	SNP (transversion)	0.02%
+C	Polymorphism	711	711	1	T -> C	170706	SNP (transition)	0.2%
+G	Polymorphism	711	711	1	T -> G	170706	SNP (transversion)	0.004%
+	Polymorphism	711	711	1	-T	170706	Deletion	0.01%
+A	Polymorphism	710	710	1	G -> A	170740	SNP (transition)	0.1%
+C	Polymorphism	710	710	1	G -> C	170740	SNP (transversion)	0.01%
+T	Polymorphism	710	710	1	G -> T	170740	SNP (transversion)	0.02%
+	Polymorphism	710	710	1	-G	170740	Deletion	0.001%
+A	Polymorphism	709	709	1	T -> A	170623	SNP (transversion)	0.02%
+C	Polymorphism	709	709	1	T -> C	170623	SNP (transition)	0.2%
+G	Polymorphism	709	709	1	T -> G	170623	SNP (transversion)	0.01%
+C	Polymorphism	708	708	1	A -> C	170347	SNP (transversion)	0.01%
+G	Polymorphism	708	708	1	A -> G	170347	SNP (transition)	0.4%
+T	Polymorphism	708	708	1	A -> T	170347	SNP (transversion)	0.02%
+A	Polymorphism	707	707	1	G -> A	170283	SNP (transition)	0.1%
+C	Polymorphism	707	707	1	G -> C	170283	SNP (transversion)	0.01%
+T	Polymorphism	707	707	1	G -> T	170283	SNP (transversion)	0.02%
+	Polymorphism	707	707	1	-G	170283	Deletion	0.001%
+C	Polymorphism	706	706	1	A -> C	170163	SNP (transversion)	0.01%
+G	Polymorphism	706	706	1	A -> G	170163	SNP (transition)	0.2%
+T	Polymorphism	706	706	1	A -> T	170163	SNP (transversion)	0.03%
+	Polymorphism	706	706	1	-A	170163	Deletion	0.01%
+A	Polymorphism	705	705	1	T -> A	170029	SNP (transversion)	0.02%
+C	Polymorphism	705	705	1	T -> C	170029	SNP (transition)	0.1%
+G	Polymorphism	705	705	1	T -> G	170029	SNP (transversion)	0.01%
+	Polymorphism	705	705	1	-T	170029	Deletion	0.001%
+A	Polymorphism	704	704	1	T -> A	169529	SNP (transversion)	0.05%
+C	Polymorphism	704	704	1	T -> C	169529	SNP (transition)	0.1%
+G	Polymorphism	704	704	1	T -> G	169529	SNP (transversion)	0.01%
+	Polymorphism	704	704	1	-T	169529	Deletion	0.1%
+A	Polymorphism	703	703	1	C -> A	169271	SNP (transversion)	0.01%
+G	Polymorphism	703	703	1	C -> G	169271	SNP (transversion)	0.005%
+T	Polymorphism	703	703	1	C -> T	169271	SNP (transition)	0.1%
+	Polymorphism	703	703	1	-C	169271	Deletion	0.002%
+A	Polymorphism	702	702	1	G -> A	169299	SNP (transition)	0.1%
+C	Polymorphism	702	702	1	G -> C	169299	SNP (transversion)	0.01%
+T	Polymorphism	702	702	1	G -> T	169299	SNP (transversion)	0.01%
+	Polymorphism	702	702	1	-G	169299	Deletion	0.004%
+A	Polymorphism	701	701	1	T -> A	169322	SNP (transversion)	0.03%
+C	Polymorphism	701	701	1	T -> C	169322	SNP (transition)	0.3%
+G	Polymorphism	701	701	1	T -> G	169322	SNP (transversion)	0.01%
+	Polymorphism	701	701	1	(T)3 -> (T)2	169322	Deletion (tandem repeat)	0.001%
+A	Polymorphism	700	700	1	T -> A	169198	SNP (transversion)	0.04%
+C	Polymorphism	700	700	1	T -> C	169198	SNP (transition)	0.3%
+G	Polymorphism	700	700	1	T -> G	169198	SNP (transversion)	0.01%
+	Polymorphism	700	700	1	(T)3 -> (T)2	169198	Deletion (tandem repeat)	0.01%
+A	Polymorphism	699	699	1	T -> A	169079	SNP (transversion)	0.03%
+C	Polymorphism	699	699	1	T -> C	169079	SNP (transition)	0.2%
+G	Polymorphism	699	699	1	T -> G	169079	SNP (transversion)	0.01%
+	Polymorphism	699	699	1	(T)3 -> (T)2	169079	Deletion (tandem repeat)	0.1%
+A	Polymorphism	698	698	1	C -> A	168968	SNP (transversion)	0.1%
+G	Polymorphism	698	698	1	C -> G	168968	SNP (transversion)	0.005%
+T	Polymorphism	698	698	1	C -> T	168968	SNP (transition)	0.2%
+	Polymorphism	698	698	1	-C	168968	Deletion	0.01%
+A	Polymorphism	697	697	1	G -> A	168945	SNP (transition)	0.1%
+C	Polymorphism	697	697	1	G -> C	168945	SNP (transversion)	0.005%
+T	Polymorphism	697	697	1	G -> T	168945	SNP (transversion)	0.01%
+	Polymorphism	697	697	1	-G	168945	Deletion	0.003%
+A	Polymorphism	696	696	1	T -> A	168993	SNP (transversion)	0.04%
+C	Polymorphism	696	696	1	T -> C	168993	SNP (transition)	0.3%
+G	Polymorphism	696	696	1	T -> G	168993	SNP (transversion)	0.01%
+	Polymorphism	696	696	1	-T	168993	Deletion	0.003%
+C	Polymorphism	695	695	1	A -> C	168741	SNP (transversion)	0.02%
+G	Polymorphism	695	695	1	A -> G	168741	SNP (transition)	0.2%
+T	Polymorphism	695	695	1	A -> T	168741	SNP (transversion)	0.02%
+	Polymorphism	695	695	1	-A	168741	Deletion	0.01%
+A	Polymorphism	694	694	1	T -> A	168688	SNP (transversion)	0.03%
+C	Polymorphism	694	694	1	T -> C	168688	SNP (transition)	0.2%
+G	Polymorphism	694	694	1	T -> G	168688	SNP (transversion)	0.004%
+	Polymorphism	694	694	1	-T	168688	Deletion	0.001%
+A	Polymorphism	693	693	1	T -> A	168529	SNP (transversion)	0.04%
+C	Polymorphism	693	693	1	T -> C	168529	SNP (transition)	0.3%
+G	Polymorphism	693	693	1	T -> G	168529	SNP (transversion)	0.01%
+	Polymorphism	693	693	1	-T	168529	Deletion	0.02%
+A	Polymorphism	692	692	1	G -> A	168307	SNP (transition)	0.05%
+C	Polymorphism	692	692	1	G -> C	168307	SNP (transversion)	0.002%
+T	Polymorphism	692	692	1	G -> T	168307	SNP (transversion)	0.01%
+	Polymorphism	692	692	1	-G	168307	Deletion	0.001%
+A	Polymorphism	691	691	1	G -> A	168157	SNP (transition)	0.1%
+C	Polymorphism	691	691	1	G -> C	168157	SNP (transversion)	0.004%
+T	Polymorphism	691	691	1	G -> T	168157	SNP (transversion)	0.02%
+	Polymorphism	691	691	1	-G	168157	Deletion	0.01%
+C	Polymorphism	690	690	1	A -> C	168011	SNP (transversion)	0.01%
+G	Polymorphism	690	690	1	A -> G	168011	SNP (transition)	0.3%
+T	Polymorphism	690	690	1	A -> T	168011	SNP (transversion)	0.03%
+	Polymorphism	690	690	1	-A	168011	Deletion	0.01%
+A	Polymorphism	689	689	1	C -> A	167987	SNP (transversion)	0.05%
+G	Polymorphism	689	689	1	C -> G	167987	SNP (transversion)	0.01%
+T	Polymorphism	689	689	1	C -> T	167987	SNP (transition)	0.2%
+	Polymorphism	689	689	1	-C	167987	Deletion	0.002%
+A	Polymorphism	688	688	1	C -> A	167553	SNP (transversion)	0.1%
+G	Polymorphism	688	688	1	C -> G	167553	SNP (transversion)	0.005%
+T	Polymorphism	688	688	1	C -> T	167553	SNP (transition)	0.1%
+	Polymorphism	688	688	1	-C	167553	Deletion	0.04%
+A	Polymorphism	687	687	1	T -> A	167350	SNP (transversion)	0.05%
+C	Polymorphism	687	687	1	T -> C	167350	SNP (transition)	0.4%
+G	Polymorphism	687	687	1	T -> G	167350	SNP (transversion)	0.01%
+	Polymorphism	687	687	1	-T	167350	Deletion	0.01%
+A	Polymorphism	686	686	1	C -> A	167087	SNP (transversion)	0.2%
+G	Polymorphism	686	686	1	C -> G	167087	SNP (transversion)	0.004%
+T	Polymorphism	686	686	1	C -> T	167087	SNP (transition)	0.1%
+	Polymorphism	686	686	1	-C	167087	Deletion	0.002%
+A	Polymorphism	685	685	1	C -> A	166639	SNP (transversion)	0.03%
+G	Polymorphism	685	685	1	C -> G	166639	SNP (transversion)	0.01%
+T	Polymorphism	685	685	1	C -> T	166639	SNP (transition)	0.1%
+	Polymorphism	685	685	1	-C	166639	Deletion	0.002%
+C	Polymorphism	685	684	0	(C)2 -> (C)3	165033	Insertion (tandem repeat)	0.001%
+C	Polymorphism	684	684	1	A -> C	165168	SNP (transversion)	0.01%
+G	Polymorphism	684	684	1	A -> G	165168	SNP (transition)	0.4%
+T	Polymorphism	684	684	1	A -> T	165168	SNP (transversion)	0.04%
+	Polymorphism	684	684	1	-A	165168	Deletion	0.001%
+A	Polymorphism	683	683	1	C -> A	164648	SNP (transversion)	0.02%
+G	Polymorphism	683	683	1	C -> G	164648	SNP (transversion)	0.01%
+T	Polymorphism	683	683	1	C -> T	164648	SNP (transition)	0.1%
+	Polymorphism	683	683	1	-C	164648	Deletion	0.002%
+A	Polymorphism	682	682	1	G -> A	164676	SNP (transition)	0.1%
+C	Polymorphism	682	682	1	G -> C	164676	SNP (transversion)	0.01%
+T	Polymorphism	682	682	1	G -> T	164676	SNP (transversion)	0.01%
+	Polymorphism	682	682	1	-G	164676	Deletion	0.001%
+A	Polymorphism	681	681	1	T -> A	164584	SNP (transversion)	0.1%
+C	Polymorphism	681	681	1	T -> C	164584	SNP (transition)	0.3%
+G	Polymorphism	681	681	1	T -> G	164584	SNP (transversion)	0.01%
+	Polymorphism	681	681	1	-T	164584	Deletion	0.001%
+A	Polymorphism	680	680	1	G -> A	164469	SNP (transition)	0.1%
+C	Polymorphism	680	680	1	G -> C	164469	SNP (transversion)	0.01%
+T	Polymorphism	680	680	1	G -> T	164469	SNP (transversion)	0.01%
+	Polymorphism	680	680	1	-G	164469	Deletion	0.01%
+A	Polymorphism	679	679	1	T -> A	164446	SNP (transversion)	0.04%
+C	Polymorphism	679	679	1	T -> C	164446	SNP (transition)	0.4%
+G	Polymorphism	679	679	1	T -> G	164446	SNP (transversion)	0.01%
+	Polymorphism	679	679	1	-T	164446	Deletion	0.005%
+A	Polymorphism	678	678	1	T -> A	164228	SNP (transversion)	0.04%
+C	Polymorphism	678	678	1	T -> C	164228	SNP (transition)	0.2%
+G	Polymorphism	678	678	1	T -> G	164228	SNP (transversion)	0.004%
+	Polymorphism	678	678	1	-T	164228	Deletion	0.001%
+C	Polymorphism	677	677	1	A -> C	164036	SNP (transversion)	0.01%
+G	Polymorphism	677	677	1	A -> G	164036	SNP (transition)	0.1%
+T	Polymorphism	677	677	1	A -> T	164036	SNP (transversion)	0.01%
+	Polymorphism	677	677	1	-A	164036	Deletion	0.001%
+A	Polymorphism	676	676	1	T -> A	163878	SNP (transversion)	0.03%
+C	Polymorphism	676	676	1	T -> C	163878	SNP (transition)	0.2%
+G	Polymorphism	676	676	1	T -> G	163878	SNP (transversion)	0.01%
+	Polymorphism	676	676	1	-T	163878	Deletion	0.001%
+A	Polymorphism	675	675	1	G -> A	163853	SNP (transition)	0.1%
+C	Polymorphism	675	675	1	G -> C	163853	SNP (transversion)	0.004%
+T	Polymorphism	675	675	1	G -> T	163853	SNP (transversion)	0.02%
+	Polymorphism	675	675	1	-G	163853	Deletion	0.001%
+A	Polymorphism	674	674	1	G -> A	163579	SNP (transition)	0.1%
+C	Polymorphism	674	674	1	G -> C	163579	SNP (transversion)	0.01%
+T	Polymorphism	674	674	1	G -> T	163579	SNP (transversion)	0.03%
+	Polymorphism	674	674	1	-G	163579	Deletion	0.001%
+C	Polymorphism	673	673	1	A -> C	163144	SNP (transversion)	0.01%
+G	Polymorphism	673	673	1	A -> G	163144	SNP (transition)	0.3%
+T	Polymorphism	673	673	1	A -> T	163144	SNP (transversion)	0.03%
+	Polymorphism	673	673	1	-A	163144	Deletion	0.004%
+A	Polymorphism	672	672	1	T -> A	162859	SNP (transversion)	0.02%
+C	Polymorphism	672	672	1	T -> C	162859	SNP (transition)	0.2%
+G	Polymorphism	672	672	1	T -> G	162859	SNP (transversion)	0.004%
+	Polymorphism	672	672	1	(T)3 -> (T)2	162859	Deletion (tandem repeat)	0.001%
+A	Polymorphism	671	671	1	T -> A	162360	SNP (transversion)	0.04%
+C	Polymorphism	671	671	1	T -> C	162360	SNP (transition)	0.2%
+G	Polymorphism	671	671	1	T -> G	162360	SNP (transversion)	0.02%
+	Polymorphism	671	671	1	(T)3 -> (T)2	162360	Deletion (tandem repeat)	0.002%
+A	Polymorphism	670	670	1	T -> A	161966	SNP (transversion)	0.02%
+C	Polymorphism	670	670	1	T -> C	161966	SNP (transition)	0.2%
+G	Polymorphism	670	670	1	T -> G	161966	SNP (transversion)	0.01%
+	Polymorphism	670	670	1	(T)3 -> (T)2	161966	Deletion (tandem repeat)	0.1%
+T	Polymorphism	670	669	0	(T)3 -> (T)4	160986	Insertion (tandem repeat)	0.001%
+C	Polymorphism	669	669	1	A -> C	161015	SNP (transversion)	0.01%
+G	Polymorphism	669	669	1	A -> G	161015	SNP (transition)	0.4%
+T	Polymorphism	669	669	1	A -> T	161015	SNP (transversion)	0.02%
+	Polymorphism	669	669	1	-A	161015	Deletion	0.002%
+A	Polymorphism	668	668	1	G -> A	160885	SNP (transition)	0.1%
+C	Polymorphism	668	668	1	G -> C	160885	SNP (transversion)	0.001%
+T	Polymorphism	668	668	1	G -> T	160885	SNP (transversion)	0.01%
+	Polymorphism	668	668	1	-G	160885	Deletion	0.001%
+C	Polymorphism	667	667	1	A -> C	160467	SNP (transversion)	0.01%
+G	Polymorphism	667	667	1	A -> G	160467	SNP (transition)	0.2%
+T	Polymorphism	667	667	1	A -> T	160467	SNP (transversion)	0.02%
+	Polymorphism	667	667	1	-A	160467	Deletion	0.01%
+A	Polymorphism	666	666	1	T -> A	160211	SNP (transversion)	0.01%
+C	Polymorphism	666	666	1	T -> C	160211	SNP (transition)	0.2%
+G	Polymorphism	666	666	1	T -> G	160211	SNP (transversion)	0.01%
+	Polymorphism	666	666	1	-T	160211	Deletion	0.001%
+A	Polymorphism	665	665	1	T -> A	159868	SNP (transversion)	0.03%
+C	Polymorphism	665	665	1	T -> C	159868	SNP (transition)	0.2%
+G	Polymorphism	665	665	1	T -> G	159868	SNP (transversion)	0.01%
+	Polymorphism	665	665	1	-T	159868	Deletion	0.02%
+C	Polymorphism	664	664	1	A -> C	159756	SNP (transversion)	0.004%
+G	Polymorphism	664	664	1	A -> G	159756	SNP (transition)	0.2%
+T	Polymorphism	664	664	1	A -> T	159756	SNP (transversion)	0.02%
+	Polymorphism	664	664	1	-A	159756	Deletion	0.01%
+A	Polymorphism	663	663	1	T -> A	159466	SNP (transversion)	0.03%
+C	Polymorphism	663	663	1	T -> C	159466	SNP (transition)	0.1%
+G	Polymorphism	663	663	1	T -> G	159466	SNP (transversion)	0.01%
+	Polymorphism	663	663	1	-T	159466	Deletion	0.01%
+A	Polymorphism	662	662	1	C -> A	159127	SNP (transversion)	0.01%
+G	Polymorphism	662	662	1	C -> G	159127	SNP (transversion)	0.002%
+T	Polymorphism	662	662	1	C -> T	159127	SNP (transition)	0.1%
+C	Polymorphism	661	661	1	A -> C	158887	SNP (transversion)	0.01%
+G	Polymorphism	661	661	1	A -> G	158887	SNP (transition)	0.2%
+T	Polymorphism	661	661	1	A -> T	158887	SNP (transversion)	0.03%
+A	Polymorphism	660	660	1	T -> A	158395	SNP (transversion)	0.01%
+C	Polymorphism	660	660	1	T -> C	158395	SNP (transition)	0.1%
+G	Polymorphism	660	660	1	T -> G	158395	SNP (transversion)	0.01%
+C	Polymorphism	659	659	1	A -> C	157816	SNP (transversion)	0.003%
+G	Polymorphism	659	659	1	A -> G	157816	SNP (transition)	0.3%
+T	Polymorphism	659	659	1	A -> T	157816	SNP (transversion)	0.05%
+	Polymorphism	659	659	1	-A	157816	Deletion	0.001%
+A	Polymorphism	659	658	0	+A	157573	Insertion	0.003%
+A	Polymorphism	658	658	1	G -> A	157625	SNP (transition)	0.1%
+C	Polymorphism	658	658	1	G -> C	157625	SNP (transversion)	0.03%
+T	Polymorphism	658	658	1	G -> T	157625	SNP (transversion)	0.02%
+A	Polymorphism	657	657	1	G -> A	157438	SNP (transition)	0.1%
+C	Polymorphism	657	657	1	G -> C	157438	SNP (transversion)	0.01%
+T	Polymorphism	657	657	1	G -> T	157438	SNP (transversion)	0.04%
+	Polymorphism	657	657	1	(G)3 -> (G)2	157438	Deletion (tandem repeat)	0.001%
+A	Polymorphism	656	656	1	G -> A	157241	SNP (transition)	0.7%
+C	Polymorphism	656	656	1	G -> C	157241	SNP (transversion)	0.01%
+T	Polymorphism	656	656	1	G -> T	157241	SNP (transversion)	0.02%
+	Polymorphism	656	656	1	(G)3 -> (G)2	157241	Deletion (tandem repeat)	0.05%
+A	Polymorphism	655	655	1	T -> A	156997	SNP (transversion)	0.03%
+C	Polymorphism	655	655	1	T -> C	156997	SNP (transition)	0.2%
+G	Polymorphism	655	655	1	T -> G	156997	SNP (transversion)	0.02%
+A	Polymorphism	654	654	1	T -> A	156585	SNP (transversion)	0.04%
+C	Polymorphism	654	654	1	T -> C	156585	SNP (transition)	0.4%
+G	Polymorphism	654	654	1	T -> G	156585	SNP (transversion)	0.01%
+	Polymorphism	654	654	1	-T	156585	Deletion	0.004%
+T	Polymorphism	654	653	0	(T)2 -> (T)3	156144	Insertion (tandem repeat)	0.001%
+C	Polymorphism	653	653	1	A -> C	156164	SNP (transversion)	0.01%
+G	Polymorphism	653	653	1	A -> G	156164	SNP (transition)	0.2%
+T	Polymorphism	653	653	1	A -> T	156164	SNP (transversion)	0.02%
+	Polymorphism	653	653	1	-A	156164	Deletion	0.01%
+A	Polymorphism	652	652	1	T -> A	155748	SNP (transversion)	0.02%
+C	Polymorphism	652	652	1	T -> C	155748	SNP (transition)	0.1%
+G	Polymorphism	652	652	1	T -> G	155748	SNP (transversion)	0.004%
+A	Polymorphism	651	651	1	T -> A	155201	SNP (transversion)	0.02%
+C	Polymorphism	651	651	1	T -> C	155201	SNP (transition)	0.2%
+G	Polymorphism	651	651	1	T -> G	155201	SNP (transversion)	0.01%
+	Polymorphism	651	651	1	-T	155201	Deletion	0.01%
+C	Polymorphism	650	650	1	A -> C	154986	SNP (transversion)	0.01%
+G	Polymorphism	650	650	1	A -> G	154986	SNP (transition)	0.2%
+T	Polymorphism	650	650	1	A -> T	154986	SNP (transversion)	0.02%
+A	Polymorphism	649	649	1	C -> A	154357	SNP (transversion)	0.02%
+G	Polymorphism	649	649	1	C -> G	154357	SNP (transversion)	0.01%
+T	Polymorphism	649	649	1	C -> T	154357	SNP (transition)	0.1%
+A	Polymorphism	648	648	1	G -> A	154167	SNP (transition)	0.1%
+C	Polymorphism	648	648	1	G -> C	154167	SNP (transversion)	0.001%
+T	Polymorphism	648	648	1	G -> T	154167	SNP (transversion)	0.01%
+	Polymorphism	648	648	1	-G	154167	Deletion	0.01%
+C	Polymorphism	647	647	1	A -> C	153940	SNP (transversion)	0.01%
+G	Polymorphism	647	647	1	A -> G	153940	SNP (transition)	0.4%
+T	Polymorphism	647	647	1	A -> T	153940	SNP (transversion)	0.04%
+	Polymorphism	647	647	1	-A	153940	Deletion	0.001%
+C	Polymorphism	646	646	1	A -> C	153426	SNP (transversion)	0.01%
+G	Polymorphism	646	646	1	A -> G	153426	SNP (transition)	0.3%
+T	Polymorphism	646	646	1	A -> T	153426	SNP (transversion)	0.05%
+	Polymorphism	646	646	1	-A	153426	Deletion	0.005%
+A	Polymorphism	645	645	1	C -> A	153012	SNP (transversion)	0.01%
+G	Polymorphism	645	645	1	C -> G	153012	SNP (transversion)	0.004%
+T	Polymorphism	645	645	1	C -> T	153012	SNP (transition)	0.1%
+	Polymorphism	645	645	1	-C	153012	Deletion	0.001%
+C	Polymorphism	644	644	1	A -> C	152502	SNP (transversion)	0.01%
+G	Polymorphism	644	644	1	A -> G	152502	SNP (transition)	0.3%
+T	Polymorphism	644	644	1	A -> T	152502	SNP (transversion)	0.1%
+A	Polymorphism	643	643	1	G -> A	151980	SNP (transition)	0.2%
+C	Polymorphism	643	643	1	G -> C	151980	SNP (transversion)	0.002%
+T	Polymorphism	643	643	1	G -> T	151980	SNP (transversion)	0.02%
+	Polymorphism	643	643	1	-G	151980	Deletion	0.001%
+A	Polymorphism	642	642	1	T -> A	151620	SNP (transversion)	0.1%
+C	Polymorphism	642	642	1	T -> C	151620	SNP (transition)	0.3%
+G	Polymorphism	642	642	1	T -> G	151620	SNP (transversion)	0.02%
+A	Polymorphism	641	641	1	G -> A	151392	SNP (transition)	0.1%
+C	Polymorphism	641	641	1	G -> C	151392	SNP (transversion)	0.003%
+T	Polymorphism	641	641	1	G -> T	151392	SNP (transversion)	0.01%
+	Polymorphism	641	641	1	-G	151392	Deletion	0.01%
+A	Polymorphism	640	640	1	T -> A	150978	SNP (transversion)	0.01%
+C	Polymorphism	640	640	1	T -> C	150978	SNP (transition)	0.3%
+G	Polymorphism	640	640	1	T -> G	150978	SNP (transversion)	0.01%
+	Polymorphism	640	640	1	-T	150978	Deletion	0.01%
+A	Polymorphism	639	639	1	T -> A	150304	SNP (transversion)	0.03%
+C	Polymorphism	639	639	1	T -> C	150304	SNP (transition)	0.2%
+G	Polymorphism	639	639	1	T -> G	150304	SNP (transversion)	0.004%
+	Polymorphism	639	639	1	-T	150304	Deletion	0.005%
+A	Polymorphism	638	638	1	C -> A	148484	SNP (transversion)	0.01%
+G	Polymorphism	638	638	1	C -> G	148484	SNP (transversion)	0.004%
+T	Polymorphism	638	638	1	C -> T	148484	SNP (transition)	0.1%
+	Polymorphism	638	638	1	-C	148484	Deletion	0.001%
+A	Polymorphism	637	637	1	T -> A	147889	SNP (transversion)	0.03%
+C	Polymorphism	637	637	1	T -> C	147889	SNP (transition)	0.2%
+G	Polymorphism	637	637	1	T -> G	147889	SNP (transversion)	0.02%
+A	Polymorphism	636	636	1	G -> A	147384	SNP (transition)	0.3%
+C	Polymorphism	636	636	1	G -> C	147384	SNP (transversion)	0.003%
+T	Polymorphism	636	636	1	G -> T	147384	SNP (transversion)	0.003%
+C	Polymorphism	635	635	1	A -> C	146019	SNP (transversion)	0.01%
+G	Polymorphism	635	635	1	A -> G	146019	SNP (transition)	0.3%
+T	Polymorphism	635	635	1	A -> T	146019	SNP (transversion)	0.1%
+A	Polymorphism	634	634	1	G -> A	145650	SNP (transition)	0.1%
+C	Polymorphism	634	634	1	G -> C	145650	SNP (transversion)	0.004%
+T	Polymorphism	634	634	1	G -> T	145650	SNP (transversion)	0.01%
+	Polymorphism	634	634	1	-G	145650	Deletion	0.001%
+C	Polymorphism	633	633	1	A -> C	145312	SNP (transversion)	0.01%
+G	Polymorphism	633	633	1	A -> G	145312	SNP (transition)	0.2%
+T	Polymorphism	633	633	1	A -> T	145312	SNP (transversion)	0.04%
+	Polymorphism	633	633	1	-A	145312	Deletion	0.01%
+C	Polymorphism	632	632	1	A -> C	144821	SNP (transversion)	0.02%
+G	Polymorphism	632	632	1	A -> G	144821	SNP (transition)	0.2%
+T	Polymorphism	632	632	1	A -> T	144821	SNP (transversion)	0.05%
+	Polymorphism	632	632	1	-A	144821	Deletion	0.01%
+A	Polymorphism	631	631	1	C -> A	142855	SNP (transversion)	0.1%
+G	Polymorphism	631	631	1	C -> G	142855	SNP (transversion)	0.005%
+T	Polymorphism	631	631	1	C -> T	142855	SNP (transition)	0.1%
+	Polymorphism	631	631	1	-C	142855	Deletion	0.001%
+A	Polymorphism	630	630	1	C -> A	140546	SNP (transversion)	0.03%
+G	Polymorphism	630	630	1	C -> G	140546	SNP (transversion)	0.004%
+T	Polymorphism	630	630	1	C -> T	140546	SNP (transition)	0.1%
+	Polymorphism	630	630	1	-C	140546	Deletion	0.01%
+A	Polymorphism	629	629	1	T -> A	138938	SNP (transversion)	0.05%
+C	Polymorphism	629	629	1	T -> C	138938	SNP (transition)	0.4%
+G	Polymorphism	629	629	1	T -> G	138938	SNP (transversion)	0.01%
+	Polymorphism	629	629	1	-T	138938	Deletion	0.001%
+C	Polymorphism	628	628	1	A -> C	138118	SNP (transversion)	0.003%
+G	Polymorphism	628	628	1	A -> G	138118	SNP (transition)	0.1%
+T	Polymorphism	628	628	1	A -> T	138118	SNP (transversion)	0.02%
+	Polymorphism	628	628	1	-A	138118	Deletion	0.01%
+A	Polymorphism	627	627	1	T -> A	137403	SNP (transversion)	0.03%
+C	Polymorphism	627	627	1	T -> C	137403	SNP (transition)	0.2%
+G	Polymorphism	627	627	1	T -> G	137403	SNP (transversion)	0.01%
+	Polymorphism	627	627	1	-T	137403	Deletion	0.001%
+A	Polymorphism	626	626	1	T -> A	136631	SNP (transversion)	0.04%
+C	Polymorphism	626	626	1	T -> C	136631	SNP (transition)	0.2%
+G	Polymorphism	626	626	1	T -> G	136631	SNP (transversion)	0.02%
+	Polymorphism	626	626	1	-T	136631	Deletion	0.01%
+C	Polymorphism	625	625	1	A -> C	135879	SNP (transversion)	0.01%
+G	Polymorphism	625	625	1	A -> G	135879	SNP (transition)	0.2%
+T	Polymorphism	625	625	1	A -> T	135879	SNP (transversion)	0.02%
+	Polymorphism	625	625	1	-A	135879	Deletion	0.002%
+A	Polymorphism	624	624	1	T -> A	134731	SNP (transversion)	0.04%
+C	Polymorphism	624	624	1	T -> C	134731	SNP (transition)	0.2%
+G	Polymorphism	624	624	1	T -> G	134731	SNP (transversion)	0.01%
+	Polymorphism	624	624	1	-T	134731	Deletion	0.002%
+A	Polymorphism	623	623	1	C -> A	132308	SNP (transversion)	0.04%
+G	Polymorphism	623	623	1	C -> G	132308	SNP (transversion)	0.005%
+T	Polymorphism	623	623	1	C -> T	132308	SNP (transition)	0.1%
+	Polymorphism	623	623	1	-C	132308	Deletion	0.01%
+A	Polymorphism	622	622	1	T -> A	131628	SNP (transversion)	0.03%
+C	Polymorphism	622	622	1	T -> C	131628	SNP (transition)	0.4%
+G	Polymorphism	622	622	1	T -> G	131628	SNP (transversion)	0.004%
+	Polymorphism	622	622	1	-T	131628	Deletion	0.01%
+A	Polymorphism	621	621	1	T -> A	130884	SNP (transversion)	0.03%
+C	Polymorphism	621	621	1	T -> C	130884	SNP (transition)	0.4%
+G	Polymorphism	621	621	1	T -> G	130884	SNP (transversion)	0.01%
+	Polymorphism	621	621	1	-T	130884	Deletion	0.002%
+A	Polymorphism	620	620	1	C -> A	129418	SNP (transversion)	0.1%
+T	Polymorphism	620	620	1	C -> T	129418	SNP (transition)	0.1%
+C	Polymorphism	619	619	1	A -> C	129067	SNP (transversion)	0.01%
+G	Polymorphism	619	619	1	A -> G	129067	SNP (transition)	0.2%
+T	Polymorphism	619	619	1	A -> T	129067	SNP (transversion)	0.04%
+A	Polymorphism	618	618	1	C -> A	128136	SNP (transversion)	0.01%
+G	Polymorphism	618	618	1	C -> G	128136	SNP (transversion)	0.01%
+T	Polymorphism	618	618	1	C -> T	128136	SNP (transition)	0.1%
+C	Polymorphism	617	617	1	A -> C	127824	SNP (transversion)	0.01%
+G	Polymorphism	617	617	1	A -> G	127824	SNP (transition)	0.3%
+T	Polymorphism	617	617	1	A -> T	127824	SNP (transversion)	0.1%
+C	Polymorphism	616	616	1	A -> C	126735	SNP (transversion)	0.003%
+G	Polymorphism	616	616	1	A -> G	126735	SNP (transition)	0.2%
+T	Polymorphism	616	616	1	A -> T	126735	SNP (transversion)	0.02%
+	Polymorphism	616	616	1	-A	126735	Deletion	0.03%
+A	Polymorphism	615	615	1	T -> A	125721	SNP (transversion)	0.02%
+C	Polymorphism	615	615	1	T -> C	125721	SNP (transition)	0.2%
+G	Polymorphism	615	615	1	T -> G	125721	SNP (transversion)	0.004%
+	Polymorphism	615	615	1	-T	125721	Deletion	0.004%
+A	Polymorphism	614	614	1	G -> A	125252	SNP (transition)	0.1%
+C	Polymorphism	614	614	1	G -> C	125252	SNP (transversion)	0.01%
+T	Polymorphism	614	614	1	G -> T	125252	SNP (transversion)	0.02%
+	Polymorphism	614	614	1	-G	125252	Deletion	0.002%
+A	Polymorphism	613	613	1	T -> A	124352	SNP (transversion)	0.03%
+C	Polymorphism	613	613	1	T -> C	124352	SNP (transition)	0.3%
+G	Polymorphism	613	613	1	T -> G	124352	SNP (transversion)	0.02%
+	Polymorphism	613	613	1	-T	124352	Deletion	0.002%
+A	Polymorphism	612	612	1	C -> A	122112	SNP (transversion)	0.01%
+G	Polymorphism	612	612	1	C -> G	122112	SNP (transversion)	0.003%
+T	Polymorphism	612	612	1	C -> T	122112	SNP (transition)	0.2%
+C	Polymorphism	611	611	1	A -> C	120683	SNP (transversion)	0.01%
+G	Polymorphism	611	611	1	A -> G	120683	SNP (transition)	0.2%
+T	Polymorphism	611	611	1	A -> T	120683	SNP (transversion)	0.04%
+A	Polymorphism	610	610	1	C -> A	118133	SNP (transversion)	0.02%
+G	Polymorphism	610	610	1	C -> G	118133	SNP (transversion)	0.01%
+T	Polymorphism	610	610	1	C -> T	118133	SNP (transition)	0.1%
+A	Polymorphism	609	609	1	T -> A	116222	SNP (transversion)	0.1%
+C	Polymorphism	609	609	1	T -> C	116222	SNP (transition)	0.2%
+G	Polymorphism	609	609	1	T -> G	116222	SNP (transversion)	0.003%
+C	Polymorphism	608	608	1	A -> C	115730	SNP (transversion)	0.01%
+G	Polymorphism	608	608	1	A -> G	115730	SNP (transition)	0.4%
+T	Polymorphism	608	608	1	A -> T	115730	SNP (transversion)	0.02%
+C	Polymorphism	607	607	1	A -> C	115027	SNP (transversion)	0.01%
+G	Polymorphism	607	607	1	A -> G	115027	SNP (transition)	0.3%
+T	Polymorphism	607	607	1	A -> T	115027	SNP (transversion)	0.1%
+	Polymorphism	607	607	1	-A	115027	Deletion	0.001%
+A	Polymorphism	606	606	1	G -> A	114222	SNP (transition)	0.2%
+C	Polymorphism	606	606	1	G -> C	114222	SNP (transversion)	0.004%
+T	Polymorphism	606	606	1	G -> T	114222	SNP (transversion)	0.03%
+	Polymorphism	606	606	1	-G	114222	Deletion	0.001%
+A	Polymorphism	605	605	1	T -> A	113040	SNP (transversion)	0.03%
+C	Polymorphism	605	605	1	T -> C	113040	SNP (transition)	0.2%
+G	Polymorphism	605	605	1	T -> G	113040	SNP (transversion)	0.01%
+C	Polymorphism	604	604	1	A -> C	112589	SNP (transversion)	0.01%
+G	Polymorphism	604	604	1	A -> G	112589	SNP (transition)	0.3%
+T	Polymorphism	604	604	1	A -> T	112589	SNP (transversion)	0.01%
+A	Polymorphism	603	603	1	C -> A	111324	SNP (transversion)	0.01%
+G	Polymorphism	603	603	1	C -> G	111324	SNP (transversion)	0.004%
+T	Polymorphism	603	603	1	C -> T	111324	SNP (transition)	0.1%
+	Polymorphism	603	603	1	-C	111324	Deletion	0.002%
+C	Polymorphism	602	602	1	A -> C	110944	SNP (transversion)	0.005%
+G	Polymorphism	602	602	1	A -> G	110944	SNP (transition)	0.2%
+T	Polymorphism	602	602	1	A -> T	110944	SNP (transversion)	0.03%
+	Polymorphism	602	602	1	-A	110944	Deletion	0.01%
+A	Polymorphism	601	601	1	T -> A	109772	SNP (transversion)	0.02%
+C	Polymorphism	601	601	1	T -> C	109772	SNP (transition)	0.2%
+G	Polymorphism	601	601	1	T -> G	109772	SNP (transversion)	0.004%
+A	Polymorphism	600	600	1	T -> A	108297	SNP (transversion)	0.03%
+C	Polymorphism	600	600	1	T -> C	108297	SNP (transition)	0.2%
+G	Polymorphism	600	600	1	T -> G	108297	SNP (transversion)	0.1%
+	Polymorphism	600	600	1	-T	108297	Deletion	0.01%
+A	Polymorphism	599	599	1	G -> A	107579	SNP (transition)	0.4%
+T	Polymorphism	599	599	1	G -> T	107579	SNP (transversion)	0.01%
+A	Polymorphism	598	598	1	T -> A	106253	SNP (transversion)	0.05%
+C	Polymorphism	598	598	1	T -> C	106253	SNP (transition)	0.2%
+G	Polymorphism	598	598	1	T -> G	106253	SNP (transversion)	0.01%
+C	Polymorphism	597	597	1	A -> C	102869	SNP (transversion)	0.01%
+G	Polymorphism	597	597	1	A -> G	102869	SNP (transition)	0.3%
+T	Polymorphism	597	597	1	A -> T	102869	SNP (transversion)	0.04%
+A	Polymorphism	596	596	1	G -> A	100982	SNP (transition)	0.2%
+C	Polymorphism	596	596	1	G -> C	100982	SNP (transversion)	0.002%
+T	Polymorphism	596	596	1	G -> T	100982	SNP (transversion)	0.02%
+	Polymorphism	596	596	1	-G	100982	Deletion	0.003%
+C	Polymorphism	595	595	1	A -> C	98723	SNP (transversion)	0.01%
+G	Polymorphism	595	595	1	A -> G	98723	SNP (transition)	0.2%
+T	Polymorphism	595	595	1	A -> T	98723	SNP (transversion)	0.03%
+	Polymorphism	595	595	1	-A	98723	Deletion	0.004%
+A	Polymorphism	594	594	1	T -> A	97523	SNP (transversion)	0.02%
+C	Polymorphism	594	594	1	T -> C	97523	SNP (transition)	0.2%
+G	Polymorphism	594	594	1	T -> G	97523	SNP (transversion)	0.01%
+A	Polymorphism	593	593	1	G -> A	97023	SNP (transition)	0.04%
+C	Polymorphism	593	593	1	G -> C	97023	SNP (transversion)	0.004%
+T	Polymorphism	593	593	1	G -> T	97023	SNP (transversion)	0.01%
+C	Polymorphism	592	592	1	A -> C	96417	SNP (transversion)	0.004%
+G	Polymorphism	592	592	1	A -> G	96417	SNP (transition)	0.2%
+T	Polymorphism	592	592	1	A -> T	96417	SNP (transversion)	0.03%
+C	Polymorphism	591	591	1	A -> C	95621	SNP (transversion)	0.01%
+G	Polymorphism	591	591	1	A -> G	95621	SNP (transition)	0.4%
+T	Polymorphism	591	591	1	A -> T	95621	SNP (transversion)	0.02%
+C	Polymorphism	590	590	1	A -> C	94687	SNP (transversion)	0.01%
+G	Polymorphism	590	590	1	A -> G	94687	SNP (transition)	0.4%
+T	Polymorphism	590	590	1	A -> T	94687	SNP (transversion)	0.1%
+	Polymorphism	590	590	1	(A)3 -> (A)2	94687	Deletion (tandem repeat)	0.01%
+A	Polymorphism	589	589	1	G -> A	93372	SNP (transition)	0.1%
+C	Polymorphism	589	589	1	G -> C	93372	SNP (transversion)	0.002%
+T	Polymorphism	589	589	1	G -> T	93372	SNP (transversion)	0.02%
+	Polymorphism	589	589	1	-G	93372	Deletion	0.002%
+A	Polymorphism	588	588	1	T -> A	91759	SNP (transversion)	0.03%
+C	Polymorphism	588	588	1	T -> C	91759	SNP (transition)	0.2%
+G	Polymorphism	588	588	1	T -> G	91759	SNP (transversion)	0.01%
+C	Polymorphism	587	587	1	A -> C	90882	SNP (transversion)	0.003%
+G	Polymorphism	587	587	1	A -> G	90882	SNP (transition)	0.2%
+T	Polymorphism	587	587	1	A -> T	90882	SNP (transversion)	0.02%
+C	Polymorphism	586	586	1	A -> C	89229	SNP (transversion)	0.004%
+G	Polymorphism	586	586	1	A -> G	89229	SNP (transition)	0.2%
+T	Polymorphism	586	586	1	A -> T	89229	SNP (transversion)	0.03%
+	Polymorphism	586	586	1	-A	89229	Deletion	0.01%
+A	Polymorphism	585	585	1	T -> A	86404	SNP (transversion)	0.02%
+C	Polymorphism	585	585	1	T -> C	86404	SNP (transition)	0.1%
+G	Polymorphism	585	585	1	T -> G	86404	SNP (transversion)	0.01%
+	Polymorphism	585	585	1	-T	86404	Deletion	0.01%
+C	Polymorphism	584	584	1	A -> C	84178	SNP (transversion)	0.01%
+G	Polymorphism	584	584	1	A -> G	84178	SNP (transition)	0.4%
+T	Polymorphism	584	584	1	A -> T	84178	SNP (transversion)	0.05%
+A	Polymorphism	583	583	1	G -> A	82533	SNP (transition)	0.3%
+C	Polymorphism	583	583	1	G -> C	82533	SNP (transversion)	0.005%
+T	Polymorphism	583	583	1	G -> T	82533	SNP (transversion)	0.03%
+A	Polymorphism	582	582	1	T -> A	80704	SNP (transversion)	0.03%
+C	Polymorphism	582	582	1	T -> C	80704	SNP (transition)	0.1%
+G	Polymorphism	582	582	1	T -> G	80704	SNP (transversion)	0.01%
+A	Polymorphism	581	581	1	C -> A	77316	SNP (transversion)	0.01%
+G	Polymorphism	581	581	1	C -> G	77316	SNP (transversion)	0.001%
+T	Polymorphism	581	581	1	C -> T	77316	SNP (transition)	0.1%
+C	Polymorphism	580	580	1	A -> C	76567	SNP (transversion)	0.004%
+G	Polymorphism	580	580	1	A -> G	76567	SNP (transition)	0.3%
+T	Polymorphism	580	580	1	A -> T	76567	SNP (transversion)	0.03%
+A	Polymorphism	579	579	1	C -> A	72705	SNP (transversion)	0.1%
+G	Polymorphism	579	579	1	C -> G	72705	SNP (transversion)	0.01%
+T	Polymorphism	579	579	1	C -> T	72705	SNP (transition)	0.1%
+A	Polymorphism	578	578	1	G -> A	70198	SNP (transition)	0.1%
+C	Polymorphism	578	578	1	G -> C	70198	SNP (transversion)	0.01%
+T	Polymorphism	578	578	1	G -> T	70198	SNP (transversion)	0.01%
+C	Polymorphism	577	577	1	A -> C	68938	SNP (transversion)	0.01%
+G	Polymorphism	577	577	1	A -> G	68938	SNP (transition)	0.1%
+T	Polymorphism	577	577	1	A -> T	68938	SNP (transversion)	0.04%
+A	Polymorphism	576	576	1	T -> A	67322	SNP (transversion)	0.04%
+C	Polymorphism	576	576	1	T -> C	67322	SNP (transition)	0.2%
+G	Polymorphism	576	576	1	T -> G	67322	SNP (transversion)	0.01%
+C	Polymorphism	575	575	1	A -> C	66827	SNP (transversion)	0.01%
+G	Polymorphism	575	575	1	A -> G	66827	SNP (transition)	0.2%
+T	Polymorphism	575	575	1	A -> T	66827	SNP (transversion)	0.1%
+C	Polymorphism	574	574	1	A -> C	66043	SNP (transversion)	0.005%
+G	Polymorphism	574	574	1	A -> G	66043	SNP (transition)	0.2%
+T	Polymorphism	574	574	1	A -> T	66043	SNP (transversion)	0.1%
+	Polymorphism	574	574	1	-A	66043	Deletion	0.005%
+A	Polymorphism	573	573	1	G -> A	65222	SNP (transition)	0.1%
+C	Polymorphism	573	573	1	G -> C	65222	SNP (transversion)	0.01%
+T	Polymorphism	573	573	1	G -> T	65222	SNP (transversion)	0.03%
+A	Polymorphism	572	572	1	G -> A	63348	SNP (transition)	0.1%
+C	Polymorphism	572	572	1	G -> C	63348	SNP (transversion)	0.01%
+T	Polymorphism	572	572	1	G -> T	63348	SNP (transversion)	0.02%
+A	Polymorphism	571	571	1	G -> A	62666	SNP (transition)	0.2%
+T	Polymorphism	571	571	1	G -> T	62666	SNP (transversion)	0.03%
+	Polymorphism	571	571	1	(G)3 -> (G)2	62666	Deletion (tandem repeat)	0.03%
+C	Polymorphism	570	570	1	A -> C	62168	SNP (transversion)	0.002%
+G	Polymorphism	570	570	1	A -> G	62168	SNP (transition)	0.2%
+T	Polymorphism	570	570	1	A -> T	62168	SNP (transversion)	0.03%
+	Polymorphism	570	570	1	-A	62168	Deletion	0.002%
+C	Polymorphism	569	569	1	A -> C	61213	SNP (transversion)	0.01%
+G	Polymorphism	569	569	1	A -> G	61213	SNP (transition)	0.2%
+T	Polymorphism	569	569	1	A -> T	61213	SNP (transversion)	0.02%
+	Polymorphism	569	569	1	-A	61213	Deletion	0.005%
+A	Polymorphism	569	568	0	(A)2 -> (A)3	58566	Insertion (tandem repeat)	0.002%
+A	Polymorphism	568	568	1	C -> A	58566	SNP (transversion)	0.02%
+G	Polymorphism	568	568	1	C -> G	58566	SNP (transversion)	0.01%
+T	Polymorphism	568	568	1	C -> T	58566	SNP (transition)	0.1%
+	Polymorphism	568	568	1	-C	58566	Deletion	0.003%
+C	Polymorphism	567	567	1	A -> C	58355	SNP (transversion)	0.003%
+G	Polymorphism	567	567	1	A -> G	58355	SNP (transition)	0.4%
+T	Polymorphism	567	567	1	A -> T	58355	SNP (transversion)	0.03%
+C	Polymorphism	566	566	1	A -> C	57636	SNP (transversion)	0.002%
+G	Polymorphism	566	566	1	A -> G	57636	SNP (transition)	0.2%
+T	Polymorphism	566	566	1	A -> T	57636	SNP (transversion)	0.04%
+	Polymorphism	566	566	1	-A	57636	Deletion	0.03%
+A	Polymorphism	565	565	1	G -> A	55706	SNP (transition)	0.1%
+T	Polymorphism	565	565	1	G -> T	55706	SNP (transversion)	0.01%
+A	Polymorphism	564	564	1	T -> A	54321	SNP (transversion)	0.1%
+C	Polymorphism	564	564	1	T -> C	54321	SNP (transition)	0.2%
+G	Polymorphism	564	564	1	T -> G	54321	SNP (transversion)	0.02%
+A	Polymorphism	563	563	1	G -> A	53663	SNP (transition)	0.3%
+T	Polymorphism	563	563	1	G -> T	53663	SNP (transversion)	0.01%
+	Polymorphism	563	563	1	-G	53663	Deletion	0.002%
+A	Polymorphism	562	562	1	T -> A	52289	SNP (transversion)	0.03%
+C	Polymorphism	562	562	1	T -> C	52289	SNP (transition)	0.2%
+G	Polymorphism	562	562	1	T -> G	52289	SNP (transversion)	0.01%
+	Polymorphism	562	562	1	(T)3 -> (T)2	52289	Deletion (tandem repeat)	0.002%
+A	Polymorphism	561	561	1	T -> A	49807	SNP (transversion)	0.02%
+C	Polymorphism	561	561	1	T -> C	49807	SNP (transition)	0.4%
+G	Polymorphism	561	561	1	T -> G	49807	SNP (transversion)	0.01%
+	Polymorphism	561	561	1	(T)3 -> (T)2	49807	Deletion (tandem repeat)	0.002%
+A	Polymorphism	560	560	1	T -> A	48205	SNP (transversion)	0.03%
+C	Polymorphism	560	560	1	T -> C	48205	SNP (transition)	0.2%
+G	Polymorphism	560	560	1	T -> G	48205	SNP (transversion)	0.004%
+	Polymorphism	560	560	1	(T)3 -> (T)2	48205	Deletion (tandem repeat)	0.004%
+A	Polymorphism	559	559	1	G -> A	47799	SNP (transition)	0.1%
+C	Polymorphism	559	559	1	G -> C	47799	SNP (transversion)	0.002%
+T	Polymorphism	559	559	1	G -> T	47799	SNP (transversion)	0.004%
+A	Polymorphism	558	558	1	G -> A	45507	SNP (transition)	0.4%
+C	Polymorphism	558	558	1	G -> C	45507	SNP (transversion)	0.002%
+T	Polymorphism	558	558	1	G -> T	45507	SNP (transversion)	0.02%
+	Polymorphism	558	558	1	-G	45507	Deletion	0.002%
+A	Polymorphism	557	557	1	T -> A	43530	SNP (transversion)	0.1%
+C	Polymorphism	557	557	1	T -> C	43530	SNP (transition)	0.1%
+G	Polymorphism	557	557	1	T -> G	43530	SNP (transversion)	0.02%
+A	Polymorphism	556	556	1	T -> A	38230	SNP (transversion)	0.02%
+C	Polymorphism	556	556	1	T -> C	38230	SNP (transition)	0.2%
+G	Polymorphism	556	556	1	T -> G	38230	SNP (transversion)	0.02%
+A	Polymorphism	555	555	1	T -> A	33975	SNP (transversion)	0.03%
+C	Polymorphism	555	555	1	T -> C	33975	SNP (transition)	0.1%
+G	Polymorphism	555	555	1	T -> G	33975	SNP (transversion)	0.01%
+	Polymorphism	555	555	1	(T)3 -> (T)2	33975	Deletion (tandem repeat)	0.01%
+G	Polymorphism	554	554	1	A -> G	30247	SNP (transition)	0.2%
+T	Polymorphism	554	554	1	A -> T	30247	SNP (transversion)	0.03%
+A	Polymorphism	553	553	1	G -> A	29015	SNP (transition)	0.05%
+C	Polymorphism	553	553	1	G -> C	29015	SNP (transversion)	0.01%
+T	Polymorphism	553	553	1	G -> T	29015	SNP (transversion)	0.003%
+C	Polymorphism	552	552	1	A -> C	27886	SNP (transversion)	0.01%
+G	Polymorphism	552	552	1	A -> G	27886	SNP (transition)	0.2%
+T	Polymorphism	552	552	1	A -> T	27886	SNP (transversion)	0.03%
+A	Polymorphism	551	551	1	C -> A	26128	SNP (transversion)	0.01%
+T	Polymorphism	551	551	1	C -> T	26128	SNP (transition)	0.1%
+G	Polymorphism	550	550	1	A -> G	25761	SNP (transition)	0.2%
+T	Polymorphism	550	550	1	A -> T	25761	SNP (transversion)	0.02%
+A	Polymorphism	549	549	1	T -> A	23594	SNP (transversion)	0.03%
+C	Polymorphism	549	549	1	T -> C	23594	SNP (transition)	0.3%
+G	Polymorphism	549	549	1	T -> G	23594	SNP (transversion)	0.01%
+	Polymorphism	549	549	1	-T	23594	Deletion	0.004%
+A	Polymorphism	548	548	1	C -> A	21215	SNP (transversion)	0.1%
+G	Polymorphism	548	548	1	C -> G	21215	SNP (transversion)	0.01%
+T	Polymorphism	548	548	1	C -> T	21215	SNP (transition)	0.1%
+	Polymorphism	548	548	1	-C	21215	Deletion	0.005%
+A	Polymorphism	547	547	1	T -> A	19356	SNP (transversion)	0.03%
+C	Polymorphism	547	547	1	T -> C	19356	SNP (transition)	0.1%
+G	Polymorphism	547	547	1	T -> G	19356	SNP (transversion)	0.01%
+A	Polymorphism	546	546	1	C -> A	17808	SNP (transversion)	0.02%
+G	Polymorphism	546	546	1	C -> G	17808	SNP (transversion)	0.01%
+T	Polymorphism	546	546	1	C -> T	17808	SNP (transition)	0.1%
+G	Polymorphism	545	545	1	A -> G	17260	SNP (transition)	0.1%
+T	Polymorphism	545	545	1	A -> T	17260	SNP (transversion)	0.02%
+A	Polymorphism	544	544	1	T -> A	16197	SNP (transversion)	0.04%
+C	Polymorphism	544	544	1	T -> C	16197	SNP (transition)	0.1%
+A	Polymorphism	543	543	1	G -> A	15784	SNP (transition)	0.04%
+C	Polymorphism	543	543	1	G -> C	15784	SNP (transversion)	0.01%
+A	Polymorphism	542	542	1	G -> A	14642	SNP (transition)	0.2%
+T	Polymorphism	542	542	1	G -> T	14642	SNP (transversion)	0.04%
+	Polymorphism	542	542	1	-G	14642	Deletion	0.01%
+A	Polymorphism	541	541	1	T -> A	14041	SNP (transversion)	0.03%
+C	Polymorphism	541	541	1	T -> C	14041	SNP (transition)	0.1%
+A	Polymorphism	540	540	1	T -> A	12179	SNP (transversion)	0.1%
+C	Polymorphism	540	540	1	T -> C	12179	SNP (transition)	0.2%
+A	Polymorphism	539	539	1	C -> A	11226	SNP (transversion)	0.01%
+T	Polymorphism	539	539	1	C -> T	11226	SNP (transition)	0.04%
+G	Polymorphism	538	538	1	A -> G	11104	SNP (transition)	0.2%
+C	Polymorphism	537	537	1	A -> C	10847	SNP (transversion)	0.2%
+G	Polymorphism	537	537	1	A -> G	10847	SNP (transition)	0.3%
+T	Polymorphism	537	537	1	A -> T	10847	SNP (transversion)	0.01%
+G	Polymorphism	536	536	1	A -> G	10456	SNP (transition)	0.2%
+T	Polymorphism	536	536	1	A -> T	10456	SNP (transversion)	0.04%
+A	Polymorphism	535	535	1	G -> A	9851	SNP (transition)	0.1%
+C	Polymorphism	535	535	1	G -> C	9851	SNP (transversion)	0.01%
+T	Polymorphism	535	535	1	G -> T	9851	SNP (transversion)	0.01%
+A	Polymorphism	534	534	1	T -> A	9200	SNP (transversion)	0.02%
+C	Polymorphism	534	534	1	T -> C	9200	SNP (transition)	0.1%
+G	Polymorphism	534	534	1	T -> G	9200	SNP (transversion)	0.01%
+G	Polymorphism	533	533	1	A -> G	8908	SNP (transition)	0.1%
+C	Polymorphism	532	532	1	A -> C	8414	SNP (transversion)	0.01%
+G	Polymorphism	532	532	1	A -> G	8414	SNP (transition)	0.2%
+T	Polymorphism	532	532	1	A -> T	8414	SNP (transversion)	0.02%
+A	Polymorphism	531	531	1	C -> A	7305	SNP (transversion)	0.01%
+G	Polymorphism	531	531	1	C -> G	7305	SNP (transversion)	0.03%
+T	Polymorphism	531	531	1	C -> T	7305	SNP (transition)	0.03%
+C	Polymorphism	530	530	1	A -> C	7036	SNP (transversion)	0.01%
+G	Polymorphism	530	530	1	A -> G	7036	SNP (transition)	0.3%
+A	Polymorphism	529	529	1	T -> A	5821	SNP (transversion)	0.02%
+C	Polymorphism	529	529	1	T -> C	5821	SNP (transition)	0.1%
+A	Polymorphism	528	528	1	G -> A	5394	SNP (transition)	0.04%
+T	Polymorphism	528	528	1	G -> T	5394	SNP (transversion)	0.04%
+G	Polymorphism	527	527	1	A -> G	5020	SNP (transition)	0.2%
+T	Polymorphism	527	527	1	A -> T	5020	SNP (transversion)	0.04%
+A	Polymorphism	526	526	1	G -> A	4568	SNP (transition)	0.1%
+	Polymorphism	526	526	1	-G	4568	Deletion	0.02%
+	Polymorphism	525	525	1	-G	4283	Deletion	0.02%
+G	Polymorphism	524	524	1	A -> G	3646	SNP (transition)	0.1%
+G	Polymorphism	523	523	1	A -> G	3429	SNP (transition)	0.3%
+G	Polymorphism	522	522	1	A -> G	3335	SNP (transition)	0.2%
+T	Polymorphism	522	522	1	A -> T	3335	SNP (transversion)	0.1%
+T	Polymorphism	521	521	1	C -> T	2982	SNP (transition)	0.03%
+G	Polymorphism	520	520	1	A -> G	2882	SNP (transition)	0.1%
+A	Polymorphism	519	519	1	G -> A	2092	SNP (transition)	0.1%
+G	Polymorphism	518	518	1	A -> G	1776	SNP (transition)	0.1%
+T	Polymorphism	518	518	1	A -> T	1776	SNP (transversion)	0.1%
+G	Polymorphism	517	517	1	A -> G	1542	SNP (transition)	0.2%
+T	Polymorphism	517	517	1	A -> T	1542	SNP (transversion)	0.1%
+A	Polymorphism	516	516	1	C -> A	1241	SNP (transversion)	0.1%
+T	Polymorphism	516	516	1	C -> T	1241	SNP (transition)	0.2%
+G	Polymorphism	515	515	1	A -> G	1169	SNP (transition)	0.3%
+G	Polymorphism	374	374	1	C -> G	2260	SNP (transversion)	0.04%
+A	Polymorphism	373	373	1	G -> A	9312	SNP (transition)	94.3%
+T	Polymorphism	373	373	1	G -> T	9312	SNP (transversion)	0.02%
+	Polymorphism	373	373	1	-G	9312	Deletion	0.03%
+G	Polymorphism	372	372	1	A -> G	10175	SNP (transition)	0.01%
+	Polymorphism	372	372	1	-A	10175	Deletion	0.03%
+	Polymorphism	371	371	1	-C	10726	Deletion	0.03%
+G	Polymorphism	369	369	1	A -> G	13239	SNP (transition)	0.02%
+A	Polymorphism	368	368	1	C -> A	13675	SNP (transversion)	0.02%
+G	Polymorphism	368	368	1	C -> G	13675	SNP (transversion)	0.01%
+T	Polymorphism	368	368	1	C -> T	13675	SNP (transition)	93.7%
+AG	Polymorphism	368	367	0	+AG	13675	Insertion	0.01%
+C	Polymorphism	368	367	0	+C	13675	Insertion	0.01%
+T	Polymorphism	368	367	0	+T	13675	Insertion	0.01%
+TAA	Polymorphism	368	367	0	+TAA	13675	Insertion	0.01%
+C	Polymorphism	367	367	1	A -> C	74084	SNP (transversion)	0.01%
+G	Polymorphism	367	367	1	A -> G	74084	SNP (transition)	0.03%
+C	Polymorphism	367	366	0	+C	74084	Insertion	0.001%
+G	Polymorphism	367	366	0	+G	74084	Insertion	0.003%
+T	Polymorphism	367	366	0	+T	74084	Insertion	0.001%
+A	Polymorphism	367	366	0	(A)2 -> (A)3	74084	Insertion (tandem repeat)	0.001%
+C	Polymorphism	367	366	0	+C	74084	Insertion	0.001%
+T	Polymorphism	367	366	0	+T	74084	Insertion	0.003%
+A	Polymorphism	367	366	0	(A)2 -> (A)3	74084	Insertion (tandem repeat)	0.004%
+ATA	Polymorphism	367	366	0	+ATA	74084	Insertion	0.001%
+C	Polymorphism	366	366	1	A -> C	75261	SNP (transversion)	0.001%
+G	Polymorphism	366	366	1	A -> G	75261	SNP (transition)	0.1%
+T	Polymorphism	366	366	1	A -> T	75261	SNP (transversion)	0.001%
+T	Polymorphism	366	365	0	+T	75261	Insertion	0.1%
+A	Polymorphism	366	365	0	(A)2 -> (A)3	75261	Insertion (tandem repeat)	0.1%
+C	Polymorphism	366	365	0	+C	75261	Insertion	0.001%
+G	Polymorphism	366	365	0	+G	75261	Insertion	0.01%
+A	Polymorphism	366	365	0	(A)2 -> (A)3	75261	Insertion (tandem repeat)	0.1%
+G	Polymorphism	366	365	0	+G	75261	Insertion	0.02%
+T	Polymorphism	366	365	0	+T	75261	Insertion	0.003%
+T	Polymorphism	365	365	1	C -> T	75838	SNP (transition)	0.01%
+G	Polymorphism	365	364	0	+G	75838	Insertion	0.003%
+A	Polymorphism	365	364	0	(A)2 -> (A)3	75838	Insertion (tandem repeat)	0.001%
+G	Polymorphism	365	364	0	+G	75838	Insertion	0.001%
+CAAT	Polymorphism	365	364	0	+CAAT	75838	Insertion	0.003%
+C	Polymorphism	364	364	1	A -> C	77947	SNP (transversion)	0.003%
+G	Polymorphism	364	364	1	A -> G	77947	SNP (transition)	0.04%
+T	Polymorphism	364	364	1	A -> T	77947	SNP (transversion)	0.01%
+C	Polymorphism	363	363	1	A -> C	78771	SNP (transversion)	0.001%
+G	Polymorphism	363	363	1	A -> G	78771	SNP (transition)	0.1%
+T	Polymorphism	363	363	1	A -> T	78771	SNP (transversion)	0.01%
+	Polymorphism	363	363	1	-A	78771	Deletion	0.001%
+T	Polymorphism	363	362	0	+T	78771	Insertion	0.8%
+A	Polymorphism	363	362	0	(A)2 -> (A)3	78771	Insertion (tandem repeat)	0.8%
+G	Polymorphism	363	362	0	+G	78771	Insertion	0.003%
+A	Polymorphism	363	362	0	(A)2 -> (A)3	78771	Insertion (tandem repeat)	0.8%
+G	Polymorphism	363	362	0	+G	78771	Insertion	0.003%
+T	Polymorphism	363	362	0	+T	78771	Insertion	0.001%
+C	Polymorphism	363	362	0	+C	78771	Insertion	0.8%
+T	Polymorphism	363	362	0	+T	78771	Insertion	0.003%
+A	Polymorphism	363	362	0	(A)2 -> (A)3	78771	Insertion (tandem repeat)	0.7%
+C	Polymorphism	363	362	0	+C	78771	Insertion	0.001%
+G	Polymorphism	363	362	0	+G	78771	Insertion	0.2%
+T	Polymorphism	363	362	0	+T	78771	Insertion	0.01%
+A	Polymorphism	363	362	0	(A)2 -> (A)3	78771	Insertion (tandem repeat)	0.7%
+C	Polymorphism	363	362	0	+C	78771	Insertion	0.004%
+G	Polymorphism	363	362	0	+G	78771	Insertion	0.1%
+T	Polymorphism	363	362	0	+T	78771	Insertion	0.03%
+A	Polymorphism	362	362	1	C -> A	78985	SNP (transversion)	0.02%
+G	Polymorphism	362	362	1	C -> G	78985	SNP (transversion)	0.003%
+T	Polymorphism	362	362	1	C -> T	78985	SNP (transition)	0.2%
+AA	Polymorphism	362	361	0	+AA	78985	Insertion	0.01%
+A	Polymorphism	361	361	1	T -> A	80059	SNP (transversion)	0.03%
+C	Polymorphism	361	361	1	T -> C	80059	SNP (transition)	0.3%
+G	Polymorphism	361	361	1	T -> G	80059	SNP (transversion)	0.004%
+C	Polymorphism	360	360	1	A -> C	82260	SNP (transversion)	0.01%
+G	Polymorphism	360	360	1	A -> G	82260	SNP (transition)	0.3%
+T	Polymorphism	360	360	1	A -> T	82260	SNP (transversion)	0.02%
+A	Polymorphism	359	359	1	C -> A	83074	SNP (transversion)	0.01%
+G	Polymorphism	359	359	1	C -> G	83074	SNP (transversion)	0.004%
+T	Polymorphism	359	359	1	C -> T	83074	SNP (transition)	0.2%
+A	Polymorphism	358	358	1	T -> A	85577	SNP (transversion)	0.03%
+C	Polymorphism	358	358	1	T -> C	85577	SNP (transition)	0.2%
+G	Polymorphism	358	358	1	T -> G	85577	SNP (transversion)	0.004%
+	Polymorphism	358	358	1	-T	85577	Deletion	0.04%
+C	Polymorphism	357	357	1	A -> C	89159	SNP (transversion)	0.01%
+G	Polymorphism	357	357	1	A -> G	89159	SNP (transition)	0.3%
+T	Polymorphism	357	357	1	A -> T	89159	SNP (transversion)	0.02%
+C	Polymorphism	356	356	1	A -> C	89816	SNP (transversion)	0.01%
+G	Polymorphism	356	356	1	A -> G	89816	SNP (transition)	0.2%
+T	Polymorphism	356	356	1	A -> T	89816	SNP (transversion)	0.03%
+C	Polymorphism	355	355	1	A -> C	90005	SNP (transversion)	0.02%
+G	Polymorphism	355	355	1	A -> G	90005	SNP (transition)	0.3%
+T	Polymorphism	355	355	1	A -> T	90005	SNP (transversion)	0.03%
+	Polymorphism	355	355	1	(A)4 -> (A)3	90005	Deletion (tandem repeat)	0.002%
+C	Polymorphism	354	354	1	A -> C	90219	SNP (transversion)	0.01%
+G	Polymorphism	354	354	1	A -> G	90219	SNP (transition)	0.3%
+T	Polymorphism	354	354	1	A -> T	90219	SNP (transversion)	0.1%
+	Polymorphism	354	354	1	(A)4 -> (A)3	90219	Deletion (tandem repeat)	0.04%
+A	Polymorphism	353	353	1	C -> A	90360	SNP (transversion)	0.002%
+G	Polymorphism	353	353	1	C -> G	90360	SNP (transversion)	0.002%
+T	Polymorphism	353	353	1	C -> T	90360	SNP (transition)	0.1%
+C	Polymorphism	352	352	1	A -> C	90938	SNP (transversion)	0.01%
+G	Polymorphism	352	352	1	A -> G	90938	SNP (transition)	0.3%
+T	Polymorphism	352	352	1	A -> T	90938	SNP (transversion)	0.05%
+A	Polymorphism	351	351	1	G -> A	91520	SNP (transition)	0.1%
+C	Polymorphism	351	351	1	G -> C	91520	SNP (transversion)	0.01%
+T	Polymorphism	351	351	1	G -> T	91520	SNP (transversion)	0.02%
+	Polymorphism	351	351	1	-G	91520	Deletion	0.004%
+A	Polymorphism	350	350	1	T -> A	93711	SNP (transversion)	0.03%
+C	Polymorphism	350	350	1	T -> C	93711	SNP (transition)	0.2%
+G	Polymorphism	350	350	1	T -> G	93711	SNP (transversion)	0.01%
+A	Polymorphism	349	349	1	T -> A	94912	SNP (transversion)	0.01%
+C	Polymorphism	349	349	1	T -> C	94912	SNP (transition)	0.2%
+G	Polymorphism	349	349	1	T -> G	94912	SNP (transversion)	0.003%
+	Polymorphism	349	349	1	-T	94912	Deletion	0.004%
+C	Polymorphism	348	348	1	A -> C	95924	SNP (transversion)	0.01%
+G	Polymorphism	348	348	1	A -> G	95924	SNP (transition)	0.2%
+T	Polymorphism	348	348	1	A -> T	95924	SNP (transversion)	0.04%
+	Polymorphism	348	348	1	-A	95924	Deletion	0.01%
+A	Polymorphism	347	347	1	G -> A	100089	SNP (transition)	0.1%
+C	Polymorphism	347	347	1	G -> C	100089	SNP (transversion)	0.004%
+T	Polymorphism	347	347	1	G -> T	100089	SNP (transversion)	0.01%
+A	Polymorphism	346	346	1	G -> A	102039	SNP (transition)	0.1%
+C	Polymorphism	346	346	1	G -> C	102039	SNP (transversion)	0.01%
+T	Polymorphism	346	346	1	G -> T	102039	SNP (transversion)	0.03%
+A	Polymorphism	345	345	1	G -> A	104025	SNP (transition)	0.5%
+C	Polymorphism	345	345	1	G -> C	104025	SNP (transversion)	0.01%
+T	Polymorphism	345	345	1	G -> T	104025	SNP (transversion)	0.1%
+	Polymorphism	345	345	1	(G)4 -> (G)3	104025	Deletion (tandem repeat)	0.001%
+A	Polymorphism	344	344	1	G -> A	105780	SNP (transition)	0.3%
+C	Polymorphism	344	344	1	G -> C	105780	SNP (transversion)	0.01%
+T	Polymorphism	344	344	1	G -> T	105780	SNP (transversion)	0.03%
+	Polymorphism	344	344	1	(G)4 -> (G)3	105780	Deletion (tandem repeat)	0.1%
+A	Polymorphism	343	343	1	T -> A	106459	SNP (transversion)	0.03%
+C	Polymorphism	343	343	1	T -> C	106459	SNP (transition)	0.1%
+G	Polymorphism	343	343	1	T -> G	106459	SNP (transversion)	0.01%
+	Polymorphism	343	343	1	-T	106459	Deletion	0.1%
+C	Polymorphism	342	342	1	A -> C	108292	SNP (transversion)	0.01%
+G	Polymorphism	342	342	1	A -> G	108292	SNP (transition)	0.3%
+T	Polymorphism	342	342	1	A -> T	108292	SNP (transversion)	0.02%
+	Polymorphism	342	342	1	(A)3 -> (A)2	108292	Deletion (tandem repeat)	0.1%
+C	Polymorphism	341	341	1	A -> C	108870	SNP (transversion)	0.04%
+G	Polymorphism	341	341	1	A -> G	108870	SNP (transition)	0.2%
+T	Polymorphism	341	341	1	A -> T	108870	SNP (transversion)	0.04%
+C	Polymorphism	340	340	1	A -> C	109361	SNP (transversion)	0.004%
+G	Polymorphism	340	340	1	A -> G	109361	SNP (transition)	0.2%
+T	Polymorphism	340	340	1	A -> T	109361	SNP (transversion)	0.04%
+	Polymorphism	340	340	1	(A)3 -> (A)2	109361	Deletion (tandem repeat)	0.1%
+A	Polymorphism	340	339	0	(A)3 -> (A)4	109357	Insertion (tandem repeat)	0.001%
+A	Polymorphism	339	339	1	T -> A	109711	SNP (transversion)	0.02%
+C	Polymorphism	339	339	1	T -> C	109711	SNP (transition)	0.1%
+G	Polymorphism	339	339	1	T -> G	109711	SNP (transversion)	0.005%
+C	Polymorphism	338	338	1	A -> C	111612	SNP (transversion)	0.002%
+G	Polymorphism	338	338	1	A -> G	111612	SNP (transition)	0.2%
+T	Polymorphism	338	338	1	A -> T	111612	SNP (transversion)	0.04%
+A	Polymorphism	337	337	1	G -> A	113218	SNP (transition)	0.1%
+C	Polymorphism	337	337	1	G -> C	113218	SNP (transversion)	0.01%
+T	Polymorphism	337	337	1	G -> T	113218	SNP (transversion)	0.02%
+	Polymorphism	337	337	1	-G	113218	Deletion	0.004%
+C	Polymorphism	336	336	1	A -> C	118006	SNP (transversion)	0.01%
+G	Polymorphism	336	336	1	A -> G	118006	SNP (transition)	0.5%
+T	Polymorphism	336	336	1	A -> T	118006	SNP (transversion)	0.1%
+	Polymorphism	336	336	1	-A	118006	Deletion	0.003%
+A	Polymorphism	335	335	1	C -> A	118991	SNP (transversion)	0.01%
+G	Polymorphism	335	335	1	C -> G	118991	SNP (transversion)	0.003%
+T	Polymorphism	335	335	1	C -> T	118991	SNP (transition)	0.1%
+	Polymorphism	335	335	1	-C	118991	Deletion	0.001%
+C	Polymorphism	334	334	1	A -> C	120136	SNP (transversion)	0.003%
+G	Polymorphism	334	334	1	A -> G	120136	SNP (transition)	0.4%
+T	Polymorphism	334	334	1	A -> T	120136	SNP (transversion)	0.1%
+	Polymorphism	334	334	1	-A	120136	Deletion	0.001%
+A	Polymorphism	333	333	1	G -> A	121036	SNP (transition)	0.2%
+C	Polymorphism	333	333	1	G -> C	121036	SNP (transversion)	0.003%
+T	Polymorphism	333	333	1	G -> T	121036	SNP (transversion)	0.03%
+C	Polymorphism	332	332	1	A -> C	123990	SNP (transversion)	0.01%
+G	Polymorphism	332	332	1	A -> G	123990	SNP (transition)	0.3%
+T	Polymorphism	332	332	1	A -> T	123990	SNP (transversion)	0.1%
+	Polymorphism	332	332	1	-A	123990	Deletion	0.002%
+A	Polymorphism	331	331	1	G -> A	125890	SNP (transition)	0.4%
+C	Polymorphism	331	331	1	G -> C	125890	SNP (transversion)	0.01%
+T	Polymorphism	331	331	1	G -> T	125890	SNP (transversion)	0.02%
+	Polymorphism	331	331	1	-G	125890	Deletion	0.004%
+A	Polymorphism	330	330	1	T -> A	128868	SNP (transversion)	0.02%
+C	Polymorphism	330	330	1	T -> C	128868	SNP (transition)	0.2%
+G	Polymorphism	330	330	1	T -> G	128868	SNP (transversion)	0.01%
+A	Polymorphism	329	329	1	G -> A	130277	SNP (transition)	0.3%
+C	Polymorphism	329	329	1	G -> C	130277	SNP (transversion)	0.002%
+T	Polymorphism	329	329	1	G -> T	130277	SNP (transversion)	0.01%
+C	Polymorphism	328	328	1	A -> C	133344	SNP (transversion)	0.01%
+G	Polymorphism	328	328	1	A -> G	133344	SNP (transition)	0.2%
+T	Polymorphism	328	328	1	A -> T	133344	SNP (transversion)	0.04%
+C	Polymorphism	327	327	1	A -> C	134434	SNP (transversion)	0.01%
+G	Polymorphism	327	327	1	A -> G	134434	SNP (transition)	0.3%
+T	Polymorphism	327	327	1	A -> T	134434	SNP (transversion)	0.03%
+C	Polymorphism	326	326	1	A -> C	134799	SNP (transversion)	0.01%
+G	Polymorphism	326	326	1	A -> G	134799	SNP (transition)	0.3%
+T	Polymorphism	326	326	1	A -> T	134799	SNP (transversion)	0.03%
+C	Polymorphism	325	325	1	A -> C	135366	SNP (transversion)	0.004%
+G	Polymorphism	325	325	1	A -> G	135366	SNP (transition)	0.1%
+T	Polymorphism	325	325	1	A -> T	135366	SNP (transversion)	0.02%
+	Polymorphism	325	325	1	(A)4 -> (A)3	135366	Deletion (tandem repeat)	0.2%
+A	Polymorphism	324	324	1	T -> A	135734	SNP (transversion)	0.03%
+C	Polymorphism	324	324	1	T -> C	135734	SNP (transition)	0.4%
+G	Polymorphism	324	324	1	T -> G	135734	SNP (transversion)	0.001%
+	Polymorphism	324	324	1	-T	135734	Deletion	0.1%
+C	Polymorphism	323	323	1	A -> C	136924	SNP (transversion)	0.01%
+G	Polymorphism	323	323	1	A -> G	136924	SNP (transition)	0.3%
+T	Polymorphism	323	323	1	A -> T	136924	SNP (transversion)	0.04%
+	Polymorphism	323	323	1	-A	136924	Deletion	0.1%
+C	Polymorphism	322	322	1	A -> C	137488	SNP (transversion)	0.01%
+G	Polymorphism	322	322	1	A -> G	137488	SNP (transition)	0.3%
+T	Polymorphism	322	322	1	A -> T	137488	SNP (transversion)	0.05%
+	Polymorphism	322	322	1	-A	137488	Deletion	0.2%
+A	Polymorphism	321	321	1	C -> A	137819	SNP (transversion)	0.02%
+G	Polymorphism	321	321	1	C -> G	137819	SNP (transversion)	0.01%
+T	Polymorphism	321	321	1	C -> T	137819	SNP (transition)	0.1%
+	Polymorphism	321	321	1	-C	137819	Deletion	0.2%
+A	Polymorphism	320	320	1	G -> A	138512	SNP (transition)	0.4%
+C	Polymorphism	320	320	1	G -> C	138512	SNP (transversion)	0.01%
+T	Polymorphism	320	320	1	G -> T	138512	SNP (transversion)	0.03%
+	Polymorphism	320	320	1	-G	138512	Deletion	0.2%
+A	Polymorphism	319	319	1	T -> A	139583	SNP (transversion)	0.02%
+C	Polymorphism	319	319	1	T -> C	139583	SNP (transition)	0.2%
+G	Polymorphism	319	319	1	T -> G	139583	SNP (transversion)	0.01%
+	Polymorphism	319	319	1	-T	139583	Deletion	0.2%
+C	Polymorphism	318	318	1	A -> C	140913	SNP (transversion)	0.005%
+G	Polymorphism	318	318	1	A -> G	140913	SNP (transition)	0.3%
+T	Polymorphism	318	318	1	A -> T	140913	SNP (transversion)	0.1%
+	Polymorphism	318	318	1	-A	140913	Deletion	0.2%
+A	Polymorphism	317	317	1	G -> A	142355	SNP (transition)	0.1%
+C	Polymorphism	317	317	1	G -> C	142355	SNP (transversion)	0.01%
+T	Polymorphism	317	317	1	G -> T	142355	SNP (transversion)	0.02%
+	Polymorphism	317	317	1	-G	142355	Deletion	0.1%
+C	Polymorphism	316	316	1	A -> C	144797	SNP (transversion)	0.01%
+G	Polymorphism	316	316	1	A -> G	144797	SNP (transition)	0.3%
+T	Polymorphism	316	316	1	A -> T	144797	SNP (transversion)	0.1%
+	Polymorphism	316	316	1	-A	144797	Deletion	0.1%
+A	Polymorphism	315	315	1	G -> A	146294	SNP (transition)	0.3%
+C	Polymorphism	315	315	1	G -> C	146294	SNP (transversion)	0.004%
+T	Polymorphism	315	315	1	G -> T	146294	SNP (transversion)	0.02%
+	Polymorphism	315	315	1	-G	146294	Deletion	0.1%
+A	Polymorphism	314	314	1	T -> A	148449	SNP (transversion)	0.1%
+C	Polymorphism	314	314	1	T -> C	148449	SNP (transition)	0.2%
+G	Polymorphism	314	314	1	T -> G	148449	SNP (transversion)	0.01%
+	Polymorphism	314	314	1	-T	148449	Deletion	0.1%
+AAG	Polymorphism	314	313	0	+AAG	148449	Insertion	0.005%
+C	Polymorphism	313	313	1	A -> C	149512	SNP (transversion)	0.01%
+G	Polymorphism	313	313	1	A -> G	149512	SNP (transition)	0.2%
+T	Polymorphism	313	313	1	A -> T	149512	SNP (transversion)	0.03%
+	Polymorphism	313	313	1	-A	149512	Deletion	0.1%
+A	Polymorphism	312	312	1	T -> A	150797	SNP (transversion)	0.03%
+C	Polymorphism	312	312	1	T -> C	150797	SNP (transition)	0.2%
+G	Polymorphism	312	312	1	T -> G	150797	SNP (transversion)	0.01%
+	Polymorphism	312	312	1	-T	150797	Deletion	0.004%
+A	Polymorphism	311	311	1	C -> A	151983	SNP (transversion)	0.01%
+G	Polymorphism	311	311	1	C -> G	151983	SNP (transversion)	0.003%
+T	Polymorphism	311	311	1	C -> T	151983	SNP (transition)	0.1%
+C	Polymorphism	310	310	1	A -> C	152885	SNP (transversion)	0.01%
+G	Polymorphism	310	310	1	A -> G	152885	SNP (transition)	0.3%
+T	Polymorphism	310	310	1	A -> T	152885	SNP (transversion)	0.03%
+	Polymorphism	310	310	1	-A	152885	Deletion	0.01%
+A	Polymorphism	309	309	1	T -> A	153964	SNP (transversion)	0.02%
+C	Polymorphism	309	309	1	T -> C	153964	SNP (transition)	0.1%
+G	Polymorphism	309	309	1	T -> G	153964	SNP (transversion)	0.005%
+A	Polymorphism	308	308	1	T -> A	154687	SNP (transversion)	0.03%
+C	Polymorphism	308	308	1	T -> C	154687	SNP (transition)	0.2%
+G	Polymorphism	308	308	1	T -> G	154687	SNP (transversion)	0.01%
+	Polymorphism	308	308	1	-T	154687	Deletion	0.03%
+C	Polymorphism	307	307	1	A -> C	155292	SNP (transversion)	0.01%
+G	Polymorphism	307	307	1	A -> G	155292	SNP (transition)	0.3%
+T	Polymorphism	307	307	1	A -> T	155292	SNP (transversion)	0.02%
+A	Polymorphism	306	306	1	C -> A	155955	SNP (transversion)	0.01%
+G	Polymorphism	306	306	1	C -> G	155955	SNP (transversion)	0.01%
+T	Polymorphism	306	306	1	C -> T	155955	SNP (transition)	0.2%
+A	Polymorphism	305	305	1	G -> A	156758	SNP (transition)	0.1%
+C	Polymorphism	305	305	1	G -> C	156758	SNP (transversion)	0.004%
+T	Polymorphism	305	305	1	G -> T	156758	SNP (transversion)	0.02%
+A	Polymorphism	304	304	1	T -> A	157775	SNP (transversion)	0.04%
+C	Polymorphism	304	304	1	T -> C	157775	SNP (transition)	0.3%
+G	Polymorphism	304	304	1	T -> G	157775	SNP (transversion)	0.1%
+C	Polymorphism	303	303	1	A -> C	158572	SNP (transversion)	0.01%
+G	Polymorphism	303	303	1	A -> G	158572	SNP (transition)	0.2%
+T	Polymorphism	303	303	1	A -> T	158572	SNP (transversion)	0.03%
+	Polymorphism	303	303	1	-A	158572	Deletion	0.003%
+A	Polymorphism	302	302	1	T -> A	159967	SNP (transversion)	0.02%
+C	Polymorphism	302	302	1	T -> C	159967	SNP (transition)	0.1%
+G	Polymorphism	302	302	1	T -> G	159967	SNP (transversion)	0.004%
+	Polymorphism	302	302	1	-T	159967	Deletion	0.001%
+A	Polymorphism	301	301	1	T -> A	160348	SNP (transversion)	0.02%
+C	Polymorphism	301	301	1	T -> C	160348	SNP (transition)	0.2%
+G	Polymorphism	301	301	1	T -> G	160348	SNP (transversion)	0.01%
+	Polymorphism	301	301	1	-T	160348	Deletion	0.01%
+C	Polymorphism	300	300	1	A -> C	160740	SNP (transversion)	0.01%
+G	Polymorphism	300	300	1	A -> G	160740	SNP (transition)	0.3%
+T	Polymorphism	300	300	1	A -> T	160740	SNP (transversion)	0.02%
+	Polymorphism	300	300	1	-A	160740	Deletion	0.001%
+T	Polymorphism	300	299	0	+T	160718	Insertion	0.001%
+A	Polymorphism	299	299	1	C -> A	161286	SNP (transversion)	0.3%
+G	Polymorphism	299	299	1	C -> G	161286	SNP (transversion)	0.002%
+T	Polymorphism	299	299	1	C -> T	161286	SNP (transition)	0.1%
+A	Polymorphism	298	298	1	C -> A	161692	SNP (transversion)	0.1%
+G	Polymorphism	298	298	1	C -> G	161692	SNP (transversion)	0.004%
+T	Polymorphism	298	298	1	C -> T	161692	SNP (transition)	0.1%
+A	Polymorphism	297	297	1	C -> A	161915	SNP (transversion)	0.1%
+G	Polymorphism	297	297	1	C -> G	161915	SNP (transversion)	0.01%
+T	Polymorphism	297	297	1	C -> T	161915	SNP (transition)	0.1%
+	Polymorphism	297	297	1	(C)4 -> (C)3	161915	Deletion (tandem repeat)	0.004%
+A	Polymorphism	296	296	1	C -> A	162169	SNP (transversion)	0.03%
+G	Polymorphism	296	296	1	C -> G	162169	SNP (transversion)	0.004%
+T	Polymorphism	296	296	1	C -> T	162169	SNP (transition)	0.1%
+	Polymorphism	296	296	1	(C)4 -> (C)3	162169	Deletion (tandem repeat)	0.1%
+A	Polymorphism	295	295	1	T -> A	162435	SNP (transversion)	0.1%
+C	Polymorphism	295	295	1	T -> C	162435	SNP (transition)	0.2%
+G	Polymorphism	295	295	1	T -> G	162435	SNP (transversion)	0.01%
+	Polymorphism	295	295	1	-T	162435	Deletion	0.004%
+T	Polymorphism	295	294	0	+T	162433	Insertion	0.002%
+C	Polymorphism	294	294	1	A -> C	163255	SNP (transversion)	0.01%
+G	Polymorphism	294	294	1	A -> G	163255	SNP (transition)	0.3%
+T	Polymorphism	294	294	1	A -> T	163255	SNP (transversion)	0.01%
+	Polymorphism	294	294	1	-A	163255	Deletion	0.01%
+A	Polymorphism	293	293	1	T -> A	163930	SNP (transversion)	0.01%
+C	Polymorphism	293	293	1	T -> C	163930	SNP (transition)	0.1%
+G	Polymorphism	293	293	1	T -> G	163930	SNP (transversion)	0.01%
+A	Polymorphism	292	292	1	T -> A	164335	SNP (transversion)	0.02%
+C	Polymorphism	292	292	1	T -> C	164335	SNP (transition)	0.1%
+G	Polymorphism	292	292	1	T -> G	164335	SNP (transversion)	0.005%
+	Polymorphism	292	292	1	-T	164335	Deletion	0.003%
+C	Polymorphism	291	291	1	A -> C	164726	SNP (transversion)	0.01%
+G	Polymorphism	291	291	1	A -> G	164726	SNP (transition)	0.3%
+T	Polymorphism	291	291	1	A -> T	164726	SNP (transversion)	0.03%
+C	Polymorphism	290	290	1	A -> C	165127	SNP (transversion)	0.02%
+G	Polymorphism	290	290	1	A -> G	165127	SNP (transition)	0.3%
+T	Polymorphism	290	290	1	A -> T	165127	SNP (transversion)	0.03%
+C	Polymorphism	289	289	1	A -> C	165323	SNP (transversion)	0.02%
+G	Polymorphism	289	289	1	A -> G	165323	SNP (transition)	0.3%
+T	Polymorphism	289	289	1	A -> T	165323	SNP (transversion)	0.1%
+	Polymorphism	289	289	1	(A)4 -> (A)3	165323	Deletion (tandem repeat)	0.005%
+C	Polymorphism	288	288	1	A -> C	165585	SNP (transversion)	0.01%
+G	Polymorphism	288	288	1	A -> G	165585	SNP (transition)	0.4%
+T	Polymorphism	288	288	1	A -> T	165585	SNP (transversion)	0.03%
+	Polymorphism	288	288	1	(A)4 -> (A)3	165585	Deletion (tandem repeat)	0.1%
+A	Polymorphism	288	287	0	(A)4 -> (A)5	165577	Insertion (tandem repeat)	0.004%
+A	Polymorphism	287	287	1	T -> A	165927	SNP (transversion)	0.02%
+C	Polymorphism	287	287	1	T -> C	165927	SNP (transition)	0.2%
+G	Polymorphism	287	287	1	T -> G	165927	SNP (transversion)	0.003%
+	Polymorphism	287	287	1	-T	165927	Deletion	0.002%
+A	Polymorphism	286	286	1	G -> A	166466	SNP (transition)	0.1%
+C	Polymorphism	286	286	1	G -> C	166466	SNP (transversion)	0.004%
+T	Polymorphism	286	286	1	G -> T	166466	SNP (transversion)	0.02%
+	Polymorphism	286	286	1	-G	166466	Deletion	0.002%
+A	Polymorphism	285	285	1	T -> A	166750	SNP (transversion)	0.03%
+C	Polymorphism	285	285	1	T -> C	166750	SNP (transition)	0.3%
+G	Polymorphism	285	285	1	T -> G	166750	SNP (transversion)	0.01%
+	Polymorphism	285	285	1	-T	166750	Deletion	0.001%
+A	Polymorphism	284	284	1	G -> A	167281	SNP (transition)	0.1%
+C	Polymorphism	284	284	1	G -> C	167281	SNP (transversion)	0.002%
+T	Polymorphism	284	284	1	G -> T	167281	SNP (transversion)	0.01%
+	Polymorphism	284	284	1	-G	167281	Deletion	0.01%
+A	Polymorphism	283	283	1	T -> A	167968	SNP (transversion)	0.03%
+C	Polymorphism	283	283	1	T -> C	167968	SNP (transition)	0.2%
+G	Polymorphism	283	283	1	T -> G	167968	SNP (transversion)	0.01%
+	Polymorphism	283	283	1	-T	167968	Deletion	0.01%
+A	Polymorphism	282	282	1	T -> A	168167	SNP (transversion)	0.1%
+C	Polymorphism	282	282	1	T -> C	168167	SNP (transition)	0.2%
+G	Polymorphism	282	282	1	T -> G	168167	SNP (transversion)	0.005%
+	Polymorphism	282	282	1	-T	168167	Deletion	0.02%
+A	Polymorphism	281	281	1	C -> A	168478	SNP (transversion)	0.1%
+G	Polymorphism	281	281	1	C -> G	168478	SNP (transversion)	0.002%
+T	Polymorphism	281	281	1	C -> T	168478	SNP (transition)	0.1%
+A	Polymorphism	280	280	1	C -> A	168798	SNP (transversion)	0.01%
+G	Polymorphism	280	280	1	C -> G	168798	SNP (transversion)	0.01%
+T	Polymorphism	280	280	1	C -> T	168798	SNP (transition)	0.1%
+	Polymorphism	280	280	1	-C	168798	Deletion	0.005%
+A	Polymorphism	279	279	1	G -> A	169072	SNP (transition)	0.1%
+C	Polymorphism	279	279	1	G -> C	169072	SNP (transversion)	0.01%
+T	Polymorphism	279	279	1	G -> T	169072	SNP (transversion)	0.01%
+	Polymorphism	279	279	1	-G	169072	Deletion	0.001%
+C	Polymorphism	278	278	1	A -> C	169569	SNP (transversion)	0.01%
+G	Polymorphism	278	278	1	A -> G	169569	SNP (transition)	0.7%
+T	Polymorphism	278	278	1	A -> T	169569	SNP (transversion)	0.03%
+	Polymorphism	278	278	1	(A)3 -> (A)2	169569	Deletion (tandem repeat)	0.001%
+C	Polymorphism	277	277	1	A -> C	169756	SNP (transversion)	0.02%
+G	Polymorphism	277	277	1	A -> G	169756	SNP (transition)	0.2%
+T	Polymorphism	277	277	1	A -> T	169756	SNP (transversion)	0.04%
+	Polymorphism	277	277	1	(A)3 -> (A)2	169756	Deletion (tandem repeat)	0.001%
+C	Polymorphism	276	276	1	A -> C	169915	SNP (transversion)	0.02%
+G	Polymorphism	276	276	1	A -> G	169915	SNP (transition)	0.4%
+T	Polymorphism	276	276	1	A -> T	169915	SNP (transversion)	0.02%
+	Polymorphism	276	276	1	(A)3 -> (A)2	169915	Deletion (tandem repeat)	0.05%
+A	Polymorphism	275	275	1	T -> A	170080	SNP (transversion)	0.02%
+C	Polymorphism	275	275	1	T -> C	170080	SNP (transition)	0.1%
+G	Polymorphism	275	275	1	T -> G	170080	SNP (transversion)	0.003%
+	Polymorphism	275	275	1	-T	170080	Deletion	0.005%
+C	Polymorphism	274	274	1	A -> C	170358	SNP (transversion)	0.05%
+G	Polymorphism	274	274	1	A -> G	170358	SNP (transition)	0.2%
+T	Polymorphism	274	274	1	A -> T	170358	SNP (transversion)	0.03%
+	Polymorphism	274	274	1	-A	170358	Deletion	0.002%
+C	Polymorphism	273	273	1	A -> C	170673	SNP (transversion)	0.02%
+G	Polymorphism	273	273	1	A -> G	170673	SNP (transition)	0.4%
+T	Polymorphism	273	273	1	A -> T	170673	SNP (transversion)	0.03%
+	Polymorphism	273	273	1	-A	170673	Deletion	0.005%
+A	Polymorphism	272	272	1	C -> A	170807	SNP (transversion)	0.2%
+G	Polymorphism	272	272	1	C -> G	170807	SNP (transversion)	0.01%
+T	Polymorphism	272	272	1	C -> T	170807	SNP (transition)	0.2%
+	Polymorphism	272	272	1	-C	170807	Deletion	0.01%
+A	Polymorphism	271	271	1	T -> A	170964	SNP (transversion)	0.1%
+C	Polymorphism	271	271	1	T -> C	170964	SNP (transition)	0.2%
+G	Polymorphism	271	271	1	T -> G	170964	SNP (transversion)	0.01%
+	Polymorphism	271	271	1	-T	170964	Deletion	0.004%
+A	Polymorphism	270	270	1	C -> A	171389	SNP (transversion)	0.1%
+G	Polymorphism	270	270	1	C -> G	171389	SNP (transversion)	0.005%
+T	Polymorphism	270	270	1	C -> T	171389	SNP (transition)	0.3%
+	Polymorphism	270	270	1	-C	171389	Deletion	0.001%
+A	Polymorphism	269	269	1	C -> A	171572	SNP (transversion)	0.005%
+G	Polymorphism	269	269	1	C -> G	171572	SNP (transversion)	0.004%
+T	Polymorphism	269	269	1	C -> T	171572	SNP (transition)	0.1%
+	Polymorphism	269	269	1	-C	171572	Deletion	0.001%
+C	Polymorphism	268	268	1	A -> C	171803	SNP (transversion)	0.01%
+G	Polymorphism	268	268	1	A -> G	171803	SNP (transition)	0.3%
+T	Polymorphism	268	268	1	A -> T	171803	SNP (transversion)	0.1%
+	Polymorphism	268	268	1	-A	171803	Deletion	0.001%
+A	Polymorphism	267	267	1	G -> A	171990	SNP (transition)	0.3%
+C	Polymorphism	267	267	1	G -> C	171990	SNP (transversion)	0.003%
+T	Polymorphism	267	267	1	G -> T	171990	SNP (transversion)	0.02%
+	Polymorphism	267	267	1	-G	171990	Deletion	0.001%
+C	Polymorphism	266	266	1	A -> C	172630	SNP (transversion)	0.01%
+G	Polymorphism	266	266	1	A -> G	172630	SNP (transition)	0.3%
+T	Polymorphism	266	266	1	A -> T	172630	SNP (transversion)	0.1%
+	Polymorphism	266	266	1	-A	172630	Deletion	0.003%
+A	Polymorphism	265	265	1	G -> A	172976	SNP (transition)	0.4%
+C	Polymorphism	265	265	1	G -> C	172976	SNP (transversion)	0.01%
+T	Polymorphism	265	265	1	G -> T	172976	SNP (transversion)	0.02%
+	Polymorphism	265	265	1	-G	172976	Deletion	0.005%
+A	Polymorphism	264	264	1	T -> A	173524	SNP (transversion)	0.03%
+C	Polymorphism	264	264	1	T -> C	173524	SNP (transition)	0.2%
+G	Polymorphism	264	264	1	T -> G	173524	SNP (transversion)	0.01%
+A	Polymorphism	263	263	1	T -> A	173620	SNP (transversion)	0.01%
+C	Polymorphism	263	263	1	T -> C	173620	SNP (transition)	0.2%
+G	Polymorphism	263	263	1	T -> G	173620	SNP (transversion)	0.003%
+	Polymorphism	263	263	1	(T)3 -> (T)2	173620	Deletion (tandem repeat)	0.01%
+A	Polymorphism	262	262	1	T -> A	173656	SNP (transversion)	0.03%
+C	Polymorphism	262	262	1	T -> C	173656	SNP (transition)	0.2%
+G	Polymorphism	262	262	1	T -> G	173656	SNP (transversion)	0.03%
+	Polymorphism	262	262	1	(T)3 -> (T)2	173656	Deletion (tandem repeat)	0.03%
+A	Polymorphism	261	261	1	C -> A	173780	SNP (transversion)	0.1%
+G	Polymorphism	261	261	1	C -> G	173780	SNP (transversion)	0.003%
+T	Polymorphism	261	261	1	C -> T	173780	SNP (transition)	0.04%
+	Polymorphism	261	261	1	-C	173780	Deletion	0.01%
+A	Polymorphism	260	260	1	T -> A	173942	SNP (transversion)	0.03%
+C	Polymorphism	260	260	1	T -> C	173942	SNP (transition)	0.4%
+G	Polymorphism	260	260	1	T -> G	173942	SNP (transversion)	0.002%
+A	Polymorphism	259	259	1	C -> A	174077	SNP (transversion)	0.01%
+G	Polymorphism	259	259	1	C -> G	174077	SNP (transversion)	0.003%
+T	Polymorphism	259	259	1	C -> T	174077	SNP (transition)	0.1%
+C	Polymorphism	258	258	1	A -> C	174362	SNP (transversion)	0.01%
+G	Polymorphism	258	258	1	A -> G	174362	SNP (transition)	0.3%
+T	Polymorphism	258	258	1	A -> T	174362	SNP (transversion)	0.04%
+C	Polymorphism	257	257	1	A -> C	174498	SNP (transversion)	0.01%
+G	Polymorphism	257	257	1	A -> G	174498	SNP (transition)	0.4%
+T	Polymorphism	257	257	1	A -> T	174498	SNP (transversion)	0.1%
+	Polymorphism	257	257	1	-A	174498	Deletion	0.001%
+A	Polymorphism	256	256	1	C -> A	174546	SNP (transversion)	0.02%
+G	Polymorphism	256	256	1	C -> G	174546	SNP (transversion)	0.01%
+T	Polymorphism	256	256	1	C -> T	174546	SNP (transition)	0.1%
+	Polymorphism	256	256	1	-C	174546	Deletion	0.01%
+A	Polymorphism	255	255	1	G -> A	174692	SNP (transition)	0.2%
+C	Polymorphism	255	255	1	G -> C	174692	SNP (transversion)	0.02%
+T	Polymorphism	255	255	1	G -> T	174692	SNP (transversion)	0.03%
+A	Polymorphism	254	254	1	G -> A	175198	SNP (transition)	0.2%
+C	Polymorphism	254	254	1	G -> C	175198	SNP (transversion)	0.01%
+T	Polymorphism	254	254	1	G -> T	175198	SNP (transversion)	0.02%
+	Polymorphism	254	254	1	-G	175198	Deletion	0.005%
+A	Polymorphism	253	253	1	T -> A	175285	SNP (transversion)	0.1%
+C	Polymorphism	253	253	1	T -> C	175285	SNP (transition)	0.2%
+G	Polymorphism	253	253	1	T -> G	175285	SNP (transversion)	0.01%
+C	Polymorphism	252	252	1	A -> C	175412	SNP (transversion)	0.003%
+G	Polymorphism	252	252	1	A -> G	175412	SNP (transition)	0.4%
+T	Polymorphism	252	252	1	A -> T	175412	SNP (transversion)	0.04%
+	Polymorphism	252	252	1	-A	175412	Deletion	0.001%
+A	Polymorphism	251	251	1	T -> A	175562	SNP (transversion)	0.03%
+C	Polymorphism	251	251	1	T -> C	175562	SNP (transition)	0.1%
+G	Polymorphism	251	251	1	T -> G	175562	SNP (transversion)	0.01%
+	Polymorphism	251	251	1	-T	175562	Deletion	0.001%
+A	Polymorphism	250	250	1	G -> A	175825	SNP (transition)	0.3%
+C	Polymorphism	250	250	1	G -> C	175825	SNP (transversion)	0.003%
+T	Polymorphism	250	250	1	G -> T	175825	SNP (transversion)	0.02%
+	Polymorphism	250	250	1	-G	175825	Deletion	0.002%
+A	Polymorphism	249	249	1	T -> A	175936	SNP (transversion)	0.04%
+C	Polymorphism	249	249	1	T -> C	175936	SNP (transition)	0.2%
+G	Polymorphism	249	249	1	T -> G	175936	SNP (transversion)	0.1%
+	Polymorphism	249	249	1	-T	175936	Deletion	0.001%
+C	Polymorphism	248	248	1	A -> C	176983	SNP (transversion)	0.01%
+G	Polymorphism	248	248	1	A -> G	176983	SNP (transition)	0.3%
+T	Polymorphism	248	248	1	A -> T	176983	SNP (transversion)	0.04%
+A	Polymorphism	247	247	1	G -> A	177283	SNP (transition)	0.1%
+C	Polymorphism	247	247	1	G -> C	177283	SNP (transversion)	0.004%
+T	Polymorphism	247	247	1	G -> T	177283	SNP (transversion)	0.02%
+A	Polymorphism	246	246	1	G -> A	177468	SNP (transition)	0.2%
+C	Polymorphism	246	246	1	G -> C	177468	SNP (transversion)	0.002%
+T	Polymorphism	246	246	1	G -> T	177468	SNP (transversion)	0.02%
+	Polymorphism	246	246	1	-G	177468	Deletion	0.01%
+C	Polymorphism	245	245	1	A -> C	177579	SNP (transversion)	0.01%
+G	Polymorphism	245	245	1	A -> G	177579	SNP (transition)	0.4%
+T	Polymorphism	245	245	1	A -> T	177579	SNP (transversion)	0.05%
+	Polymorphism	245	245	1	-A	177579	Deletion	0.002%
+A	Polymorphism	244	244	1	G -> A	177718	SNP (transition)	0.2%
+C	Polymorphism	244	244	1	G -> C	177718	SNP (transversion)	0.01%
+T	Polymorphism	244	244	1	G -> T	177718	SNP (transversion)	0.02%
+	Polymorphism	244	244	1	-G	177718	Deletion	0.004%
+C	Polymorphism	243	243	1	A -> C	177965	SNP (transversion)	0.01%
+G	Polymorphism	243	243	1	A -> G	177965	SNP (transition)	0.2%
+T	Polymorphism	243	243	1	A -> T	177965	SNP (transversion)	0.1%
+	Polymorphism	243	243	1	-A	177965	Deletion	0.004%
+A	Polymorphism	242	242	1	T -> A	178262	SNP (transversion)	0.02%
+C	Polymorphism	242	242	1	T -> C	178262	SNP (transition)	0.1%
+G	Polymorphism	242	242	1	T -> G	178262	SNP (transversion)	0.003%
+C	Polymorphism	241	241	1	A -> C	178549	SNP (transversion)	0.01%
+G	Polymorphism	241	241	1	A -> G	178549	SNP (transition)	0.2%
+T	Polymorphism	241	241	1	A -> T	178549	SNP (transversion)	0.04%
+C	Polymorphism	240	240	1	A -> C	178644	SNP (transversion)	0.02%
+G	Polymorphism	240	240	1	A -> G	178644	SNP (transition)	0.3%
+T	Polymorphism	240	240	1	A -> T	178644	SNP (transversion)	0.1%
+	Polymorphism	240	240	1	-A	178644	Deletion	0.01%
+A	Polymorphism	239	239	1	C -> A	178728	SNP (transversion)	0.2%
+G	Polymorphism	239	239	1	C -> G	178728	SNP (transversion)	0.01%
+T	Polymorphism	239	239	1	C -> T	178728	SNP (transition)	0.1%
+	Polymorphism	239	239	1	-C	178728	Deletion	0.01%
+A	Polymorphism	238	238	1	G -> A	178988	SNP (transition)	0.1%
+C	Polymorphism	238	238	1	G -> C	178988	SNP (transversion)	0.01%
+T	Polymorphism	238	238	1	G -> T	178988	SNP (transversion)	0.02%
+A	Polymorphism	237	237	1	G -> A	179135	SNP (transition)	0.2%
+C	Polymorphism	237	237	1	G -> C	179135	SNP (transversion)	0.01%
+T	Polymorphism	237	237	1	G -> T	179135	SNP (transversion)	0.02%
+C	Polymorphism	236	236	1	A -> C	179239	SNP (transversion)	0.02%
+G	Polymorphism	236	236	1	A -> G	179239	SNP (transition)	0.3%
+T	Polymorphism	236	236	1	A -> T	179239	SNP (transversion)	0.04%
+	Polymorphism	236	236	1	-A	179239	Deletion	0.001%
+A	Polymorphism	235	235	1	C -> A	179314	SNP (transversion)	0.01%
+G	Polymorphism	235	235	1	C -> G	179314	SNP (transversion)	0.003%
+T	Polymorphism	235	235	1	C -> T	179314	SNP (transition)	0.1%
+C	Polymorphism	234	234	1	A -> C	179531	SNP (transversion)	0.01%
+G	Polymorphism	234	234	1	A -> G	179531	SNP (transition)	0.3%
+T	Polymorphism	234	234	1	A -> T	179531	SNP (transversion)	0.1%
+C	Polymorphism	233	233	1	A -> C	179639	SNP (transversion)	0.01%
+G	Polymorphism	233	233	1	A -> G	179639	SNP (transition)	0.2%
+T	Polymorphism	233	233	1	A -> T	179639	SNP (transversion)	0.1%
+	Polymorphism	233	233	1	-A	179639	Deletion	0.003%
+A	Polymorphism	232	232	1	G -> A	179718	SNP (transition)	0.1%
+C	Polymorphism	232	232	1	G -> C	179718	SNP (transversion)	0.01%
+T	Polymorphism	232	232	1	G -> T	179718	SNP (transversion)	0.02%
+	Polymorphism	232	232	1	-G	179718	Deletion	0.004%
+C	Polymorphism	231	231	1	A -> C	179927	SNP (transversion)	0.02%
+G	Polymorphism	231	231	1	A -> G	179927	SNP (transition)	0.4%
+T	Polymorphism	231	231	1	A -> T	179927	SNP (transversion)	0.1%
+	Polymorphism	231	231	1	-A	179927	Deletion	0.004%
+A	Polymorphism	231	230	0	+A	179909	Insertion	0.1%
+A	Polymorphism	230	230	1	C -> A	180067	SNP (transversion)	0.01%
+G	Polymorphism	230	230	1	C -> G	180067	SNP (transversion)	0.01%
+T	Polymorphism	230	230	1	C -> T	180067	SNP (transition)	0.1%
+	Polymorphism	230	230	1	-C	180067	Deletion	0.001%
+C	Polymorphism	229	229	1	A -> C	180207	SNP (transversion)	0.04%
+G	Polymorphism	229	229	1	A -> G	180207	SNP (transition)	0.4%
+T	Polymorphism	229	229	1	A -> T	180207	SNP (transversion)	0.03%
+	Polymorphism	229	229	1	-A	180207	Deletion	0.01%
+A	Polymorphism	228	228	1	C -> A	180362	SNP (transversion)	0.1%
+G	Polymorphism	228	228	1	C -> G	180362	SNP (transversion)	0.002%
+T	Polymorphism	228	228	1	C -> T	180362	SNP (transition)	0.1%
+	Polymorphism	228	228	1	-C	180362	Deletion	0.01%
+A	Polymorphism	227	227	1	T -> A	180491	SNP (transversion)	0.1%
+C	Polymorphism	227	227	1	T -> C	180491	SNP (transition)	0.2%
+G	Polymorphism	227	227	1	T -> G	180491	SNP (transversion)	0.01%
+A	Polymorphism	226	226	1	G -> A	180589	SNP (transition)	0.2%
+C	Polymorphism	226	226	1	G -> C	180589	SNP (transversion)	0.004%
+T	Polymorphism	226	226	1	G -> T	180589	SNP (transversion)	0.03%
+C	Polymorphism	225	225	1	A -> C	180749	SNP (transversion)	0.02%
+G	Polymorphism	225	225	1	A -> G	180749	SNP (transition)	0.5%
+T	Polymorphism	225	225	1	A -> T	180749	SNP (transversion)	0.1%
+A	Polymorphism	224	224	1	C -> A	180814	SNP (transversion)	0.01%
+G	Polymorphism	224	224	1	C -> G	180814	SNP (transversion)	0.01%
+T	Polymorphism	224	224	1	C -> T	180814	SNP (transition)	0.2%
+	Polymorphism	224	224	1	-C	180814	Deletion	0.001%
+C	Polymorphism	223	223	1	A -> C	180994	SNP (transversion)	0.01%
+G	Polymorphism	223	223	1	A -> G	180994	SNP (transition)	0.3%
+T	Polymorphism	223	223	1	A -> T	180994	SNP (transversion)	0.05%
+	Polymorphism	223	223	1	-A	180994	Deletion	0.001%
+A	Polymorphism	222	222	1	T -> A	181178	SNP (transversion)	0.03%
+C	Polymorphism	222	222	1	T -> C	181178	SNP (transition)	0.3%
+G	Polymorphism	222	222	1	T -> G	181178	SNP (transversion)	0.01%
+C	Polymorphism	221	221	1	A -> C	181457	SNP (transversion)	0.01%
+G	Polymorphism	221	221	1	A -> G	181457	SNP (transition)	0.3%
+T	Polymorphism	221	221	1	A -> T	181457	SNP (transversion)	0.03%
+	Polymorphism	221	221	1	-A	181457	Deletion	0.001%
+C	Polymorphism	220	220	1	A -> C	181524	SNP (transversion)	0.01%
+G	Polymorphism	220	220	1	A -> G	181524	SNP (transition)	0.4%
+T	Polymorphism	220	220	1	A -> T	181524	SNP (transversion)	0.1%
+	Polymorphism	220	220	1	-A	181524	Deletion	0.001%
+A	Polymorphism	219	219	1	G -> A	181644	SNP (transition)	0.2%
+C	Polymorphism	219	219	1	G -> C	181644	SNP (transversion)	0.2%
+T	Polymorphism	219	219	1	G -> T	181644	SNP (transversion)	0.02%
+	Polymorphism	219	219	1	-G	181644	Deletion	0.001%
+C	Polymorphism	218	218	1	A -> C	181822	SNP (transversion)	0.01%
+G	Polymorphism	218	218	1	A -> G	181822	SNP (transition)	0.5%
+T	Polymorphism	218	218	1	A -> T	181822	SNP (transversion)	0.1%
+	Polymorphism	218	218	1	-A	181822	Deletion	0.003%
+A	Polymorphism	217	217	1	G -> A	181950	SNP (transition)	0.1%
+C	Polymorphism	217	217	1	G -> C	181950	SNP (transversion)	0.003%
+T	Polymorphism	217	217	1	G -> T	181950	SNP (transversion)	0.02%
+	Polymorphism	217	217	1	(G)3 -> (G)2	181950	Deletion (tandem repeat)	0.001%
+A	Polymorphism	216	216	1	G -> A	182064	SNP (transition)	0.1%
+C	Polymorphism	216	216	1	G -> C	182064	SNP (transversion)	0.004%
+T	Polymorphism	216	216	1	G -> T	182064	SNP (transversion)	0.04%
+	Polymorphism	216	216	1	(G)3 -> (G)2	182064	Deletion (tandem repeat)	0.01%
+A	Polymorphism	215	215	1	G -> A	182133	SNP (transition)	0.8%
+C	Polymorphism	215	215	1	G -> C	182133	SNP (transversion)	0.003%
+T	Polymorphism	215	215	1	G -> T	182133	SNP (transversion)	0.03%
+	Polymorphism	215	215	1	(G)3 -> (G)2	182133	Deletion (tandem repeat)	0.1%
+G	Polymorphism	215	214	0	(G)3 -> (G)4	182091	Insertion (tandem repeat)	0.001%
+A	Polymorphism	214	214	1	T -> A	182158	SNP (transversion)	0.1%
+C	Polymorphism	214	214	1	T -> C	182158	SNP (transition)	0.3%
+G	Polymorphism	214	214	1	T -> G	182158	SNP (transversion)	0.01%
+	Polymorphism	214	214	1	-T	182158	Deletion	0.001%
+A	Polymorphism	213	213	1	T -> A	182198	SNP (transversion)	0.1%
+C	Polymorphism	213	213	1	T -> C	182198	SNP (transition)	0.2%
+G	Polymorphism	213	213	1	T -> G	182198	SNP (transversion)	0.3%
+	Polymorphism	213	213	1	-T	182198	Deletion	0.01%
+A	Polymorphism	212	212	1	C -> A	182358	SNP (transversion)	0.05%
+G	Polymorphism	212	212	1	C -> G	182358	SNP (transversion)	0.01%
+T	Polymorphism	212	212	1	C -> T	182358	SNP (transition)	0.1%
+	Polymorphism	212	212	1	-C	182358	Deletion	0.01%
+A	Polymorphism	211	211	1	G -> A	182386	SNP (transition)	0.1%
+C	Polymorphism	211	211	1	G -> C	182386	SNP (transversion)	0.005%
+T	Polymorphism	211	211	1	G -> T	182386	SNP (transversion)	0.02%
+	Polymorphism	211	211	1	-G	182386	Deletion	0.001%
+A	Polymorphism	210	210	1	T -> A	182438	SNP (transversion)	0.02%
+C	Polymorphism	210	210	1	T -> C	182438	SNP (transition)	0.3%
+G	Polymorphism	210	210	1	T -> G	182438	SNP (transversion)	0.01%
+	Polymorphism	210	210	1	-T	182438	Deletion	0.001%
+C	Polymorphism	209	209	1	A -> C	182597	SNP (transversion)	0.01%
+G	Polymorphism	209	209	1	A -> G	182597	SNP (transition)	0.5%
+T	Polymorphism	209	209	1	A -> T	182597	SNP (transversion)	0.03%
+	Polymorphism	209	209	1	-A	182597	Deletion	0.001%
+A	Polymorphism	208	208	1	G -> A	182661	SNP (transition)	0.3%
+C	Polymorphism	208	208	1	G -> C	182661	SNP (transversion)	0.01%
+T	Polymorphism	208	208	1	G -> T	182661	SNP (transversion)	0.02%
+	Polymorphism	208	208	1	-G	182661	Deletion	0.003%
+A	Polymorphism	207	207	1	T -> A	182791	SNP (transversion)	0.1%
+C	Polymorphism	207	207	1	T -> C	182791	SNP (transition)	0.4%
+G	Polymorphism	207	207	1	T -> G	182791	SNP (transversion)	0.01%
+	Polymorphism	207	207	1	(T)3 -> (T)2	182791	Deletion (tandem repeat)	0.001%
+A	Polymorphism	206	206	1	T -> A	182909	SNP (transversion)	0.02%
+C	Polymorphism	206	206	1	T -> C	182909	SNP (transition)	0.3%
+G	Polymorphism	206	206	1	T -> G	182909	SNP (transversion)	0.01%
+	Polymorphism	206	206	1	(T)3 -> (T)2	182909	Deletion (tandem repeat)	0.002%
+A	Polymorphism	205	205	1	T -> A	182979	SNP (transversion)	0.03%
+C	Polymorphism	205	205	1	T -> C	182979	SNP (transition)	0.2%
+G	Polymorphism	205	205	1	T -> G	182979	SNP (transversion)	0.1%
+	Polymorphism	205	205	1	(T)3 -> (T)2	182979	Deletion (tandem repeat)	0.1%
+A	Polymorphism	204	204	1	C -> A	183380	SNP (transversion)	0.03%
+G	Polymorphism	204	204	1	C -> G	183380	SNP (transversion)	0.004%
+T	Polymorphism	204	204	1	C -> T	183380	SNP (transition)	0.1%
+	Polymorphism	204	204	1	-C	183380	Deletion	0.004%
+A	Polymorphism	203	203	1	G -> A	183447	SNP (transition)	0.1%
+C	Polymorphism	203	203	1	G -> C	183447	SNP (transversion)	0.002%
+T	Polymorphism	203	203	1	G -> T	183447	SNP (transversion)	0.01%
+	Polymorphism	203	203	1	-G	183447	Deletion	0.001%
+C	Polymorphism	202	202	1	A -> C	183536	SNP (transversion)	0.01%
+G	Polymorphism	202	202	1	A -> G	183536	SNP (transition)	0.3%
+T	Polymorphism	202	202	1	A -> T	183536	SNP (transversion)	0.04%
+	Polymorphism	202	202	1	(A)3 -> (A)2	183536	Deletion (tandem repeat)	0.001%
+C	Polymorphism	201	201	1	A -> C	183585	SNP (transversion)	0.01%
+G	Polymorphism	201	201	1	A -> G	183585	SNP (transition)	0.3%
+T	Polymorphism	201	201	1	A -> T	183585	SNP (transversion)	0.03%
+	Polymorphism	201	201	1	(A)3 -> (A)2	183585	Deletion (tandem repeat)	0.001%
+C	Polymorphism	200	200	1	A -> C	183615	SNP (transversion)	0.01%
+G	Polymorphism	200	200	1	A -> G	183615	SNP (transition)	0.3%
+T	Polymorphism	200	200	1	A -> T	183615	SNP (transversion)	0.1%
+	Polymorphism	200	200	1	(A)3 -> (A)2	183615	Deletion (tandem repeat)	0.01%
+A	Polymorphism	199	199	1	G -> A	183624	SNP (transition)	0.1%
+C	Polymorphism	199	199	1	G -> C	183624	SNP (transversion)	0.01%
+T	Polymorphism	199	199	1	G -> T	183624	SNP (transversion)	0.03%
+	Polymorphism	199	199	1	-G	183624	Deletion	0.01%
+C	Polymorphism	198	198	1	A -> C	183636	SNP (transversion)	0.01%
+G	Polymorphism	198	198	1	A -> G	183636	SNP (transition)	0.4%
+T	Polymorphism	198	198	1	A -> T	183636	SNP (transversion)	0.04%
+	Polymorphism	198	198	1	-A	183636	Deletion	0.01%
+A	Polymorphism	197	197	1	C -> A	183618	SNP (transversion)	0.02%
+G	Polymorphism	197	197	1	C -> G	183618	SNP (transversion)	0.1%
+T	Polymorphism	197	197	1	C -> T	183618	SNP (transition)	0.1%
+	Polymorphism	197	197	1	-C	183618	Deletion	0.01%
+C	Polymorphism	196	196	1	A -> C	183791	SNP (transversion)	0.01%
+G	Polymorphism	196	196	1	A -> G	183791	SNP (transition)	0.2%
+T	Polymorphism	196	196	1	A -> T	183791	SNP (transversion)	0.03%
+	Polymorphism	196	196	1	-A	183791	Deletion	0.01%
+A	Polymorphism	195	195	1	T -> A	183839	SNP (transversion)	0.01%
+C	Polymorphism	195	195	1	T -> C	183839	SNP (transition)	0.2%
+G	Polymorphism	195	195	1	T -> G	183839	SNP (transversion)	0.002%
+	Polymorphism	195	195	1	-T	183839	Deletion	0.001%
+A	Polymorphism	194	194	1	T -> A	183880	SNP (transversion)	0.04%
+C	Polymorphism	194	194	1	T -> C	183880	SNP (transition)	0.2%
+G	Polymorphism	194	194	1	T -> G	183880	SNP (transversion)	0.01%
+	Polymorphism	194	194	1	-T	183880	Deletion	0.02%
+A	Polymorphism	193	193	1	G -> A	184029	SNP (transition)	0.2%
+C	Polymorphism	193	193	1	G -> C	184029	SNP (transversion)	0.003%
+T	Polymorphism	193	193	1	G -> T	184029	SNP (transversion)	0.01%
+A	Polymorphism	192	192	1	T -> A	184062	SNP (transversion)	0.01%
+C	Polymorphism	192	192	1	T -> C	184062	SNP (transition)	0.2%
+G	Polymorphism	192	192	1	T -> G	184062	SNP (transversion)	0.004%
+	Polymorphism	192	192	1	-T	184062	Deletion	0.002%
+C	Polymorphism	191	191	1	A -> C	184151	SNP (transversion)	0.01%
+G	Polymorphism	191	191	1	A -> G	184151	SNP (transition)	0.2%
+T	Polymorphism	191	191	1	A -> T	184151	SNP (transversion)	0.03%
+	Polymorphism	191	191	1	-A	184151	Deletion	0.001%
+C	Polymorphism	190	190	1	A -> C	184193	SNP (transversion)	0.01%
+G	Polymorphism	190	190	1	A -> G	184193	SNP (transition)	0.2%
+T	Polymorphism	190	190	1	A -> T	184193	SNP (transversion)	0.02%
+	Polymorphism	190	190	1	-A	184193	Deletion	0.02%
+A	Polymorphism	189	189	1	T -> A	184173	SNP (transversion)	0.1%
+C	Polymorphism	189	189	1	T -> C	184173	SNP (transition)	0.2%
+G	Polymorphism	189	189	1	T -> G	184173	SNP (transversion)	0.005%
+A	Polymorphism	188	188	1	T -> A	184126	SNP (transversion)	0.04%
+C	Polymorphism	188	188	1	T -> C	184126	SNP (transition)	0.1%
+G	Polymorphism	188	188	1	T -> G	184126	SNP (transversion)	0.02%
+	Polymorphism	188	188	1	-T	184126	Deletion	0.03%
+A	Polymorphism	187	187	1	C -> A	184187	SNP (transversion)	0.1%
+G	Polymorphism	187	187	1	C -> G	184187	SNP (transversion)	0.002%
+T	Polymorphism	187	187	1	C -> T	184187	SNP (transition)	0.1%
+A	Polymorphism	186	186	1	C -> A	184139	SNP (transversion)	0.1%
+G	Polymorphism	186	186	1	C -> G	184139	SNP (transversion)	0.01%
+T	Polymorphism	186	186	1	C -> T	184139	SNP (transition)	0.1%
+A	Polymorphism	185	185	1	C -> A	183999	SNP (transversion)	0.1%
+G	Polymorphism	185	185	1	C -> G	183999	SNP (transversion)	0.01%
+T	Polymorphism	185	185	1	C -> T	183999	SNP (transition)	0.1%
+	Polymorphism	185	185	1	(C)3 -> (C)2	183999	Deletion (tandem repeat)	0.004%
+A	Polymorphism	184	184	1	G -> A	183706	SNP (transition)	0.1%
+C	Polymorphism	184	184	1	G -> C	183706	SNP (transversion)	0.01%
+T	Polymorphism	184	184	1	G -> T	183706	SNP (transversion)	0.04%
+A	Polymorphism	183	183	1	G -> A	183618	SNP (transition)	0.5%
+C	Polymorphism	183	183	1	G -> C	183618	SNP (transversion)	0.01%
+T	Polymorphism	183	183	1	G -> T	183618	SNP (transversion)	0.05%
+	Polymorphism	183	183	1	-G	183618	Deletion	0.01%
+A	Polymorphism	182	182	1	T -> A	183600	SNP (transversion)	0.2%
+C	Polymorphism	182	182	1	T -> C	183600	SNP (transition)	0.2%
+G	Polymorphism	182	182	1	T -> G	183600	SNP (transversion)	0.01%
+A	Polymorphism	181	181	1	T -> A	183764	SNP (transversion)	0.02%
+C	Polymorphism	181	181	1	T -> C	183764	SNP (transition)	0.2%
+G	Polymorphism	181	181	1	T -> G	183764	SNP (transversion)	0.005%
+	Polymorphism	181	181	1	-T	183764	Deletion	0.01%
+C	Polymorphism	180	180	1	A -> C	183877	SNP (transversion)	0.01%
+G	Polymorphism	180	180	1	A -> G	183877	SNP (transition)	0.6%
+T	Polymorphism	180	180	1	A -> T	183877	SNP (transversion)	0.1%
+C	Polymorphism	179	179	1	A -> C	183858	SNP (transversion)	0.01%
+G	Polymorphism	179	179	1	A -> G	183858	SNP (transition)	0.4%
+T	Polymorphism	179	179	1	A -> T	183858	SNP (transversion)	0.03%
+	Polymorphism	179	179	1	-A	183858	Deletion	0.001%
+A	Polymorphism	178	178	1	G -> A	183736	SNP (transition)	0.05%
+C	Polymorphism	178	178	1	G -> C	183736	SNP (transversion)	0.01%
+T	Polymorphism	178	178	1	G -> T	183736	SNP (transversion)	0.01%
+	Polymorphism	178	178	1	-G	183736	Deletion	0.003%
+C	Polymorphism	177	177	1	A -> C	183721	SNP (transversion)	0.02%
+G	Polymorphism	177	177	1	A -> G	183721	SNP (transition)	0.3%
+T	Polymorphism	177	177	1	A -> T	183721	SNP (transversion)	0.1%
+	Polymorphism	177	177	1	-A	183721	Deletion	0.004%
+A	Polymorphism	176	176	1	C -> A	183583	SNP (transversion)	0.1%
+G	Polymorphism	176	176	1	C -> G	183583	SNP (transversion)	0.01%
+T	Polymorphism	176	176	1	C -> T	183583	SNP (transition)	0.1%
+	Polymorphism	176	176	1	-C	183583	Deletion	0.002%
+A	Polymorphism	175	175	1	T -> A	183539	SNP (transversion)	0.03%
+C	Polymorphism	175	175	1	T -> C	183539	SNP (transition)	0.2%
+G	Polymorphism	175	175	1	T -> G	183539	SNP (transversion)	0.01%
+A	Polymorphism	174	174	1	T -> A	183466	SNP (transversion)	0.03%
+C	Polymorphism	174	174	1	T -> C	183466	SNP (transition)	0.3%
+G	Polymorphism	174	174	1	T -> G	183466	SNP (transversion)	0.02%
+	Polymorphism	174	174	1	-T	183466	Deletion	0.003%
+T	Polymorphism	174	173	0	(T)2 -> (T)3	183389	Insertion (tandem repeat)	0.002%
+C	Polymorphism	173	173	1	A -> C	183446	SNP (transversion)	0.01%
+G	Polymorphism	173	173	1	A -> G	183446	SNP (transition)	0.1%
+T	Polymorphism	173	173	1	A -> T	183446	SNP (transversion)	0.03%
+	Polymorphism	173	173	1	-A	183446	Deletion	0.01%
+A	Polymorphism	172	172	1	T -> A	183436	SNP (transversion)	0.01%
+C	Polymorphism	172	172	1	T -> C	183436	SNP (transition)	0.1%
+G	Polymorphism	172	172	1	T -> G	183436	SNP (transversion)	0.01%
+A	Polymorphism	171	171	1	T -> A	183298	SNP (transversion)	0.03%
+C	Polymorphism	171	171	1	T -> C	183298	SNP (transition)	0.4%
+G	Polymorphism	171	171	1	T -> G	183298	SNP (transversion)	0.01%
+	Polymorphism	171	171	1	-T	183298	Deletion	0.02%
+T	Polymorphism	171	170	0	(T)2 -> (T)3	183089	Insertion (tandem repeat)	0.001%
+C	Polymorphism	170	170	1	A -> C	183168	SNP (transversion)	0.02%
+G	Polymorphism	170	170	1	A -> G	183168	SNP (transition)	0.3%
+T	Polymorphism	170	170	1	A -> T	183168	SNP (transversion)	0.05%
+A	Polymorphism	169	169	1	G -> A	182972	SNP (transition)	0.2%
+C	Polymorphism	169	169	1	G -> C	182972	SNP (transversion)	0.01%
+T	Polymorphism	169	169	1	G -> T	182972	SNP (transversion)	0.02%
+	Polymorphism	169	169	1	-G	182972	Deletion	0.002%
+A	Polymorphism	168	168	1	T -> A	182963	SNP (transversion)	0.03%
+C	Polymorphism	168	168	1	T -> C	182963	SNP (transition)	0.2%
+G	Polymorphism	168	168	1	T -> G	182963	SNP (transversion)	0.1%
+	Polymorphism	168	168	1	-T	182963	Deletion	0.003%
+A	Polymorphism	167	167	1	G -> A	182975	SNP (transition)	0.1%
+C	Polymorphism	167	167	1	G -> C	182975	SNP (transversion)	0.01%
+T	Polymorphism	167	167	1	G -> T	182975	SNP (transversion)	0.02%
+	Polymorphism	167	167	1	-G	182975	Deletion	0.003%
+A	Polymorphism	166	166	1	G -> A	182966	SNP (transition)	0.2%
+C	Polymorphism	166	166	1	G -> C	182966	SNP (transversion)	0.01%
+T	Polymorphism	166	166	1	G -> T	182966	SNP (transversion)	0.03%
+	Polymorphism	166	166	1	-G	182966	Deletion	0.01%
+A	Polymorphism	165	165	1	T -> A	182982	SNP (transversion)	0.03%
+C	Polymorphism	165	165	1	T -> C	182982	SNP (transition)	0.4%
+G	Polymorphism	165	165	1	T -> G	182982	SNP (transversion)	0.1%
+C	Polymorphism	164	164	1	A -> C	183053	SNP (transversion)	0.02%
+G	Polymorphism	164	164	1	A -> G	183053	SNP (transition)	0.2%
+T	Polymorphism	164	164	1	A -> T	183053	SNP (transversion)	0.1%
+C	Polymorphism	163	163	1	A -> C	183022	SNP (transversion)	0.01%
+G	Polymorphism	163	163	1	A -> G	183022	SNP (transition)	0.2%
+T	Polymorphism	163	163	1	A -> T	183022	SNP (transversion)	0.02%
+	Polymorphism	163	163	1	-A	183022	Deletion	0.02%
+A	Polymorphism	162	162	1	T -> A	182997	SNP (transversion)	0.01%
+C	Polymorphism	162	162	1	T -> C	182997	SNP (transition)	0.1%
+G	Polymorphism	162	162	1	T -> G	182997	SNP (transversion)	0.01%
+	Polymorphism	162	162	1	-T	182997	Deletion	0.003%
+C	Polymorphism	161	161	1	A -> C	183014	SNP (transversion)	0.01%
+G	Polymorphism	161	161	1	A -> G	183014	SNP (transition)	0.3%
+T	Polymorphism	161	161	1	A -> T	183014	SNP (transversion)	0.05%
+A	Polymorphism	160	160	1	G -> A	183037	SNP (transition)	0.1%
+C	Polymorphism	160	160	1	G -> C	183037	SNP (transversion)	0.002%
+T	Polymorphism	160	160	1	G -> T	183037	SNP (transversion)	0.02%
+	Polymorphism	160	160	1	-G	183037	Deletion	0.01%
+C	Polymorphism	159	159	1	A -> C	183025	SNP (transversion)	0.02%
+G	Polymorphism	159	159	1	A -> G	183025	SNP (transition)	0.3%
+T	Polymorphism	159	159	1	A -> T	183025	SNP (transversion)	0.1%
+	Polymorphism	159	159	1	-A	183025	Deletion	0.01%
+A	Polymorphism	158	158	1	C -> A	183020	SNP (transversion)	0.04%
+G	Polymorphism	158	158	1	C -> G	183020	SNP (transversion)	0.005%
+T	Polymorphism	158	158	1	C -> T	183020	SNP (transition)	0.1%
+A	Polymorphism	157	157	1	C -> A	183002	SNP (transversion)	0.01%
+G	Polymorphism	157	157	1	C -> G	183002	SNP (transversion)	0.01%
+T	Polymorphism	157	157	1	C -> T	183002	SNP (transition)	0.1%
+	Polymorphism	157	157	1	-C	183002	Deletion	0.02%
+C	Polymorphism	156	156	1	A -> C	182994	SNP (transversion)	0.004%
+G	Polymorphism	156	156	1	A -> G	182994	SNP (transition)	0.3%
+T	Polymorphism	156	156	1	A -> T	182994	SNP (transversion)	0.03%
+	Polymorphism	156	156	1	-A	182994	Deletion	0.01%
+A	Polymorphism	155	155	1	T -> A	182982	SNP (transversion)	0.1%
+C	Polymorphism	155	155	1	T -> C	182982	SNP (transition)	0.2%
+G	Polymorphism	155	155	1	T -> G	182982	SNP (transversion)	0.01%
+	Polymorphism	155	155	1	-T	182982	Deletion	0.01%
+A	Polymorphism	154	154	1	C -> A	182978	SNP (transversion)	0.1%
+G	Polymorphism	154	154	1	C -> G	182978	SNP (transversion)	0.001%
+T	Polymorphism	154	154	1	C -> T	182978	SNP (transition)	0.3%
+A	Polymorphism	153	153	1	C -> A	182898	SNP (transversion)	0.01%
+G	Polymorphism	153	153	1	C -> G	182898	SNP (transversion)	0.01%
+T	Polymorphism	153	153	1	C -> T	182898	SNP (transition)	0.2%
+	Polymorphism	153	153	1	-C	182898	Deletion	0.002%
+A	Polymorphism	152	152	1	G -> A	182745	SNP (transition)	0.2%
+C	Polymorphism	152	152	1	G -> C	182745	SNP (transversion)	0.01%
+T	Polymorphism	152	152	1	G -> T	182745	SNP (transversion)	0.02%
+A	Polymorphism	151	151	1	T -> A	182856	SNP (transversion)	0.1%
+C	Polymorphism	151	151	1	T -> C	182856	SNP (transition)	0.2%
+G	Polymorphism	151	151	1	T -> G	182856	SNP (transversion)	0.01%
+A	Polymorphism	150	150	1	G -> A	182791	SNP (transition)	0.2%
+C	Polymorphism	150	150	1	G -> C	182791	SNP (transversion)	0.003%
+T	Polymorphism	150	150	1	G -> T	182791	SNP (transversion)	0.01%
+C	Polymorphism	149	149	1	A -> C	182905	SNP (transversion)	0.02%
+G	Polymorphism	149	149	1	A -> G	182905	SNP (transition)	0.3%
+T	Polymorphism	149	149	1	A -> T	182905	SNP (transversion)	0.1%
+	Polymorphism	149	149	1	-A	182905	Deletion	0.001%
+A	Polymorphism	148	148	1	C -> A	182920	SNP (transversion)	0.02%
+G	Polymorphism	148	148	1	C -> G	182920	SNP (transversion)	0.01%
+T	Polymorphism	148	148	1	C -> T	182920	SNP (transition)	0.1%
+	Polymorphism	148	148	1	-C	182920	Deletion	0.001%
+A	Polymorphism	147	147	1	T -> A	182861	SNP (transversion)	0.1%
+C	Polymorphism	147	147	1	T -> C	182861	SNP (transition)	0.4%
+G	Polymorphism	147	147	1	T -> G	182861	SNP (transversion)	0.01%
+	Polymorphism	147	147	1	-T	182861	Deletion	0.001%
+A	Polymorphism	146	146	1	C -> A	182862	SNP (transversion)	0.01%
+G	Polymorphism	146	146	1	C -> G	182862	SNP (transversion)	0.01%
+T	Polymorphism	146	146	1	C -> T	182862	SNP (transition)	0.1%
+	Polymorphism	146	146	1	-C	182862	Deletion	0.001%
+C	Polymorphism	145	145	1	A -> C	182839	SNP (transversion)	0.01%
+G	Polymorphism	145	145	1	A -> G	182839	SNP (transition)	0.3%
+T	Polymorphism	145	145	1	A -> T	182839	SNP (transversion)	0.04%
+C	Polymorphism	144	144	1	A -> C	182795	SNP (transversion)	0.02%
+G	Polymorphism	144	144	1	A -> G	182795	SNP (transition)	0.3%
+T	Polymorphism	144	144	1	A -> T	182795	SNP (transversion)	0.1%
+	Polymorphism	144	144	1	-A	182795	Deletion	0.01%
+A	Polymorphism	143	143	1	C -> A	182700	SNP (transversion)	0.004%
+G	Polymorphism	143	143	1	C -> G	182700	SNP (transversion)	0.01%
+T	Polymorphism	143	143	1	C -> T	182700	SNP (transition)	0.1%
+	Polymorphism	143	143	1	-C	182700	Deletion	0.003%
+C	Polymorphism	142	142	1	A -> C	182562	SNP (transversion)	0.01%
+G	Polymorphism	142	142	1	A -> G	182562	SNP (transition)	0.3%
+T	Polymorphism	142	142	1	A -> T	182562	SNP (transversion)	0.04%
+	Polymorphism	142	142	1	-A	182562	Deletion	0.001%
+C	Polymorphism	141	141	1	A -> C	182534	SNP (transversion)	0.01%
+G	Polymorphism	141	141	1	A -> G	182534	SNP (transition)	0.4%
+T	Polymorphism	141	141	1	A -> T	182534	SNP (transversion)	0.1%
+	Polymorphism	141	141	1	-A	182534	Deletion	0.01%
+A	Polymorphism	141	140	0	(A)2 -> (A)3	182427	Insertion (tandem repeat)	0.001%
+A	Polymorphism	140	140	1	G -> A	182515	SNP (transition)	0.1%
+C	Polymorphism	140	140	1	G -> C	182515	SNP (transversion)	0.01%
+T	Polymorphism	140	140	1	G -> T	182515	SNP (transversion)	0.02%
+A	Polymorphism	139	139	1	G -> A	182543	SNP (transition)	0.3%
+C	Polymorphism	139	139	1	G -> C	182543	SNP (transversion)	0.01%
+T	Polymorphism	139	139	1	G -> T	182543	SNP (transversion)	0.04%
+A	Polymorphism	138	138	1	G -> A	182540	SNP (transition)	0.2%
+C	Polymorphism	138	138	1	G -> C	182540	SNP (transversion)	0.003%
+T	Polymorphism	138	138	1	G -> T	182540	SNP (transversion)	0.03%
+	Polymorphism	138	138	1	(G)4 -> (G)3	182540	Deletion (tandem repeat)	0.01%
+A	Polymorphism	137	137	1	G -> A	182447	SNP (transition)	0.5%
+C	Polymorphism	137	137	1	G -> C	182447	SNP (transversion)	0.01%
+T	Polymorphism	137	137	1	G -> T	182447	SNP (transversion)	0.02%
+	Polymorphism	137	137	1	(G)4 -> (G)3	182447	Deletion (tandem repeat)	0.1%
+G	Polymorphism	137	136	0	(G)4 -> (G)5	182332	Insertion (tandem repeat)	0.001%
+A	Polymorphism	136	136	1	T -> A	182381	SNP (transversion)	0.04%
+C	Polymorphism	136	136	1	T -> C	182381	SNP (transition)	0.2%
+G	Polymorphism	136	136	1	T -> G	182381	SNP (transversion)	0.02%
+	Polymorphism	136	136	1	-T	182381	Deletion	0.002%
+A	Polymorphism	135	135	1	T -> A	182337	SNP (transversion)	0.03%
+C	Polymorphism	135	135	1	T -> C	182337	SNP (transition)	0.2%
+G	Polymorphism	135	135	1	T -> G	182337	SNP (transversion)	0.01%
+	Polymorphism	135	135	1	-T	182337	Deletion	0.004%
+A	Polymorphism	134	134	1	C -> A	182348	SNP (transversion)	0.004%
+G	Polymorphism	134	134	1	C -> G	182348	SNP (transversion)	0.01%
+T	Polymorphism	134	134	1	C -> T	182348	SNP (transition)	0.1%
+	Polymorphism	134	134	1	-C	182348	Deletion	0.001%
+C	Polymorphism	133	133	1	A -> C	182261	SNP (transversion)	0.02%
+G	Polymorphism	133	133	1	A -> G	182261	SNP (transition)	0.3%
+T	Polymorphism	133	133	1	A -> T	182261	SNP (transversion)	0.03%
+A	Polymorphism	132	132	1	T -> A	182122	SNP (transversion)	0.02%
+C	Polymorphism	132	132	1	T -> C	182122	SNP (transition)	0.3%
+G	Polymorphism	132	132	1	T -> G	182122	SNP (transversion)	0.005%
+C	Polymorphism	131	131	1	A -> C	182139	SNP (transversion)	0.01%
+G	Polymorphism	131	131	1	A -> G	182139	SNP (transition)	0.3%
+T	Polymorphism	131	131	1	A -> T	182139	SNP (transversion)	0.1%
+	Polymorphism	131	131	1	-A	182139	Deletion	0.001%
+A	Polymorphism	131	130	0	+A	182066	Insertion	0.001%
+A	Polymorphism	130	130	1	G -> A	182119	SNP (transition)	0.1%
+C	Polymorphism	130	130	1	G -> C	182119	SNP (transversion)	0.003%
+T	Polymorphism	130	130	1	G -> T	182119	SNP (transversion)	0.02%
+A	Polymorphism	129	129	1	G -> A	182076	SNP (transition)	0.1%
+C	Polymorphism	129	129	1	G -> C	182076	SNP (transversion)	0.01%
+T	Polymorphism	129	129	1	G -> T	182076	SNP (transversion)	0.03%
+	Polymorphism	129	129	1	(G)3 -> (G)2	182076	Deletion (tandem repeat)	0.001%
+A	Polymorphism	128	128	1	G -> A	182071	SNP (transition)	0.04%
+C	Polymorphism	128	128	1	G -> C	182071	SNP (transversion)	0.01%
+T	Polymorphism	128	128	1	G -> T	182071	SNP (transversion)	0.04%
+	Polymorphism	128	128	1	(G)3 -> (G)2	182071	Deletion (tandem repeat)	0.01%
+C	Polymorphism	127	127	1	A -> C	181991	SNP (transversion)	0.02%
+G	Polymorphism	127	127	1	A -> G	181991	SNP (transition)	0.2%
+T	Polymorphism	127	127	1	A -> T	181991	SNP (transversion)	0.05%
+	Polymorphism	127	127	1	-A	181991	Deletion	0.001%
+A	Polymorphism	126	126	1	T -> A	181930	SNP (transversion)	0.01%
+C	Polymorphism	126	126	1	T -> C	181930	SNP (transition)	0.1%
+G	Polymorphism	126	126	1	T -> G	181930	SNP (transversion)	0.01%
+	Polymorphism	126	126	1	-T	181930	Deletion	0.001%
+C	Polymorphism	125	125	1	A -> C	181979	SNP (transversion)	0.01%
+G	Polymorphism	125	125	1	A -> G	181979	SNP (transition)	0.3%
+T	Polymorphism	125	125	1	A -> T	181979	SNP (transversion)	0.03%
+C	Polymorphism	124	124	1	A -> C	181915	SNP (transversion)	0.01%
+G	Polymorphism	124	124	1	A -> G	181915	SNP (transition)	0.3%
+T	Polymorphism	124	124	1	A -> T	181915	SNP (transversion)	0.04%
+	Polymorphism	124	124	1	-A	181915	Deletion	0.001%
+A	Polymorphism	123	123	1	G -> A	181914	SNP (transition)	0.2%
+C	Polymorphism	123	123	1	G -> C	181914	SNP (transversion)	0.01%
+T	Polymorphism	123	123	1	G -> T	181914	SNP (transversion)	0.02%
+	Polymorphism	123	123	1	-G	181914	Deletion	0.002%
+C	Polymorphism	122	122	1	A -> C	181863	SNP (transversion)	0.02%
+G	Polymorphism	122	122	1	A -> G	181863	SNP (transition)	0.2%
+T	Polymorphism	122	122	1	A -> T	181863	SNP (transversion)	0.04%
+	Polymorphism	122	122	1	-A	181863	Deletion	0.004%
+C	Polymorphism	121	121	1	A -> C	181765	SNP (transversion)	0.01%
+G	Polymorphism	121	121	1	A -> G	181765	SNP (transition)	0.2%
+T	Polymorphism	121	121	1	A -> T	181765	SNP (transversion)	0.02%
+	Polymorphism	121	121	1	-A	181765	Deletion	0.01%
+A	Polymorphism	120	120	1	C -> A	181725	SNP (transversion)	0.05%
+G	Polymorphism	120	120	1	C -> G	181725	SNP (transversion)	0.003%
+T	Polymorphism	120	120	1	C -> T	181725	SNP (transition)	0.1%
+A	Polymorphism	119	119	1	C -> A	181730	SNP (transversion)	0.01%
+G	Polymorphism	119	119	1	C -> G	181730	SNP (transversion)	0.02%
+T	Polymorphism	119	119	1	C -> T	181730	SNP (transition)	0.1%
+	Polymorphism	119	119	1	-C	181730	Deletion	0.01%
+C	Polymorphism	118	118	1	A -> C	181700	SNP (transversion)	0.01%
+G	Polymorphism	118	118	1	A -> G	181700	SNP (transition)	0.3%
+T	Polymorphism	118	118	1	A -> T	181700	SNP (transversion)	0.1%
+C	Polymorphism	117	117	1	A -> C	181618	SNP (transversion)	0.02%
+G	Polymorphism	117	117	1	A -> G	181618	SNP (transition)	0.4%
+T	Polymorphism	117	117	1	A -> T	181618	SNP (transversion)	0.05%
+	Polymorphism	117	117	1	-A	181618	Deletion	0.002%
+A	Polymorphism	116	116	1	C -> A	181433	SNP (transversion)	0.1%
+G	Polymorphism	116	116	1	C -> G	181433	SNP (transversion)	0.01%
+T	Polymorphism	116	116	1	C -> T	181433	SNP (transition)	0.1%
+	Polymorphism	116	116	1	-C	181433	Deletion	0.01%
+A	Polymorphism	115	115	1	G -> A	181575	SNP (transition)	0.1%
+C	Polymorphism	115	115	1	G -> C	181575	SNP (transversion)	0.01%
+T	Polymorphism	115	115	1	G -> T	181575	SNP (transversion)	0.03%
+	Polymorphism	115	115	1	-G	181575	Deletion	0.001%
+A	Polymorphism	114	114	1	T -> A	181584	SNP (transversion)	0.04%
+C	Polymorphism	114	114	1	T -> C	181584	SNP (transition)	0.3%
+G	Polymorphism	114	114	1	T -> G	181584	SNP (transversion)	0.02%
+A	Polymorphism	113	113	1	G -> A	181561	SNP (transition)	0.1%
+C	Polymorphism	113	113	1	G -> C	181561	SNP (transversion)	0.005%
+T	Polymorphism	113	113	1	G -> T	181561	SNP (transversion)	0.01%
+	Polymorphism	113	113	1	-G	181561	Deletion	0.002%
+A	Polymorphism	112	112	1	T -> A	181539	SNP (transversion)	0.05%
+C	Polymorphism	112	112	1	T -> C	181539	SNP (transition)	0.2%
+G	Polymorphism	112	112	1	T -> G	181539	SNP (transversion)	0.01%
+	Polymorphism	112	112	1	-T	181539	Deletion	0.002%
+A	Polymorphism	111	111	1	C -> A	181554	SNP (transversion)	0.2%
+G	Polymorphism	111	111	1	C -> G	181554	SNP (transversion)	0.003%
+T	Polymorphism	111	111	1	C -> T	181554	SNP (transition)	0.1%
+	Polymorphism	111	111	1	-C	181554	Deletion	0.003%
+A	Polymorphism	110	110	1	T -> A	181515	SNP (transversion)	0.04%
+C	Polymorphism	110	110	1	T -> C	181515	SNP (transition)	0.2%
+G	Polymorphism	110	110	1	T -> G	181515	SNP (transversion)	0.01%
+	Polymorphism	110	110	1	-T	181515	Deletion	0.002%
+A	Polymorphism	109	109	1	T -> A	181446	SNP (transversion)	0.1%
+C	Polymorphism	109	109	1	T -> C	181446	SNP (transition)	0.2%
+G	Polymorphism	109	109	1	T -> G	181446	SNP (transversion)	0.01%
+	Polymorphism	109	109	1	-T	181446	Deletion	0.005%
+A	Polymorphism	108	108	1	C -> A	181384	SNP (transversion)	0.1%
+G	Polymorphism	108	108	1	C -> G	181384	SNP (transversion)	0.01%
+T	Polymorphism	108	108	1	C -> T	181384	SNP (transition)	0.1%
+	Polymorphism	108	108	1	-C	181384	Deletion	0.003%
+A	Polymorphism	107	107	1	T -> A	181314	SNP (transversion)	0.02%
+C	Polymorphism	107	107	1	T -> C	181314	SNP (transition)	0.2%
+G	Polymorphism	107	107	1	T -> G	181314	SNP (transversion)	0.01%
+	Polymorphism	107	107	1	-T	181314	Deletion	0.01%
+A	Polymorphism	106	106	1	C -> A	181196	SNP (transversion)	0.1%
+G	Polymorphism	106	106	1	C -> G	181196	SNP (transversion)	0.003%
+T	Polymorphism	106	106	1	C -> T	181196	SNP (transition)	0.1%
+	Polymorphism	106	106	1	(C)4 -> (C)3	181196	Deletion (tandem repeat)	0.001%
+A	Polymorphism	105	105	1	C -> A	181148	SNP (transversion)	0.1%
+G	Polymorphism	105	105	1	C -> G	181148	SNP (transversion)	0.004%
+T	Polymorphism	105	105	1	C -> T	181148	SNP (transition)	0.1%
+A	Polymorphism	104	104	1	C -> A	181068	SNP (transversion)	0.2%
+G	Polymorphism	104	104	1	C -> G	181068	SNP (transversion)	0.01%
+T	Polymorphism	104	104	1	C -> T	181068	SNP (transition)	0.1%
+	Polymorphism	104	104	1	(C)4 -> (C)3	181068	Deletion (tandem repeat)	0.001%
+A	Polymorphism	103	103	1	C -> A	180980	SNP (transversion)	0.1%
+G	Polymorphism	103	103	1	C -> G	180980	SNP (transversion)	0.01%
+T	Polymorphism	103	103	1	C -> T	180980	SNP (transition)	0.1%
+	Polymorphism	103	103	1	(C)4 -> (C)3	180980	Deletion (tandem repeat)	0.02%
+A	Polymorphism	102	102	1	T -> A	180874	SNP (transversion)	0.04%
+C	Polymorphism	102	102	1	T -> C	180874	SNP (transition)	0.3%
+G	Polymorphism	102	102	1	T -> G	180874	SNP (transversion)	0.01%
+A	Polymorphism	101	101	1	T -> A	180796	SNP (transversion)	0.03%
+C	Polymorphism	101	101	1	T -> C	180796	SNP (transition)	0.2%
+G	Polymorphism	101	101	1	T -> G	180796	SNP (transversion)	0.004%
+	Polymorphism	101	101	1	-T	180796	Deletion	0.01%
+C	Polymorphism	100	100	1	A -> C	180644	SNP (transversion)	0.01%
+G	Polymorphism	100	100	1	A -> G	180644	SNP (transition)	0.2%
+T	Polymorphism	100	100	1	A -> T	180644	SNP (transversion)	0.02%
+	Polymorphism	100	100	1	-A	180644	Deletion	0.001%
+C	Polymorphism	99	99	1	A -> C	180407	SNP (transversion)	0.01%
+G	Polymorphism	99	99	1	A -> G	180407	SNP (transition)	0.3%
+T	Polymorphism	99	99	1	A -> T	180407	SNP (transversion)	0.04%
+	Polymorphism	99	99	1	-A	180407	Deletion	0.002%
+A	Polymorphism	98	98	1	C -> A	179963	SNP (transversion)	0.01%
+G	Polymorphism	98	98	1	C -> G	179963	SNP (transversion)	0.01%
+T	Polymorphism	98	98	1	C -> T	179963	SNP (transition)	0.1%
+	Polymorphism	98	98	1	-C	179963	Deletion	0.01%
+C	Polymorphism	98	97	0	+C	179370	Insertion	0.001%
+C	Polymorphism	97	97	1	A -> C	179370	SNP (transversion)	0.1%
+G	Polymorphism	97	97	1	A -> G	179370	SNP (transition)	0.02%
+T	Polymorphism	97	97	1	A -> T	179370	SNP (transversion)	0.03%
+	Polymorphism	97	97	1	-A	179370	Deletion	0.001%
+A	Polymorphism	96	96	1	G -> A	179006	SNP (transition)	0.1%
+C	Polymorphism	96	96	1	G -> C	179006	SNP (transversion)	0.01%
+T	Polymorphism	96	96	1	G -> T	179006	SNP (transversion)	0.04%
+	Polymorphism	96	96	1	-G	179006	Deletion	0.1%
+G	Polymorphism	96	95	0	+G	178750	Insertion	0.002%
+A	Polymorphism	95	95	1	C -> A	178750	SNP (transversion)	0.01%
+G	Polymorphism	95	95	1	C -> G	178750	SNP (transversion)	0.002%
+T	Polymorphism	95	95	1	C -> T	178750	SNP (transition)	0.1%
+	Polymorphism	95	95	1	-C	178750	Deletion	0.1%
+C	Polymorphism	95	94	0	+C	178055	Insertion	0.002%
+A	Polymorphism	94	94	1	G -> A	178055	SNP (transition)	0.1%
+C	Polymorphism	94	94	1	G -> C	178055	SNP (transversion)	0.004%
+T	Polymorphism	94	94	1	G -> T	178055	SNP (transversion)	0.02%
+	Polymorphism	94	94	1	-G	178055	Deletion	0.05%
+G	Polymorphism	94	93	0	+G	177614	Insertion	0.01%
+A	Polymorphism	93	93	1	T -> A	177614	SNP (transversion)	0.01%
+C	Polymorphism	93	93	1	T -> C	177614	SNP (transition)	0.1%
+G	Polymorphism	93	93	1	T -> G	177614	SNP (transversion)	0.002%
+	Polymorphism	93	93	1	-T	177614	Deletion	0.04%
+T	Polymorphism	93	92	0	+T	176952	Insertion	0.001%
+C	Polymorphism	92	92	1	A -> C	176952	SNP (transversion)	0.01%
+G	Polymorphism	92	92	1	A -> G	176952	SNP (transition)	0.02%
+T	Polymorphism	92	92	1	A -> T	176952	SNP (transversion)	0.01%
+	Polymorphism	92	92	1	-A	176952	Deletion	0.01%
+C	Polymorphism	91	91	1	A -> C	176103	SNP (transversion)	0.01%
+G	Polymorphism	91	91	1	A -> G	176103	SNP (transition)	0.02%
+T	Polymorphism	91	91	1	A -> T	176103	SNP (transversion)	0.03%
+	Polymorphism	91	91	1	-A	176103	Deletion	0.1%
+A	Polymorphism	91	90	0	(A)2 -> (A)3	175549	Insertion (tandem repeat)	0.01%
+A	Polymorphism	90	90	1	G -> A	175549	SNP (transition)	0.1%
+C	Polymorphism	90	90	1	G -> C	175549	SNP (transversion)	0.01%
+T	Polymorphism	90	90	1	G -> T	175549	SNP (transversion)	0.03%
+	Polymorphism	90	90	1	-G	175549	Deletion	0.01%
+A	Polymorphism	89	89	1	G -> A	175193	SNP (transition)	0.1%
+C	Polymorphism	89	89	1	G -> C	175193	SNP (transversion)	0.003%
+T	Polymorphism	89	89	1	G -> T	175193	SNP (transversion)	0.02%
+	Polymorphism	89	89	1	-G	175193	Deletion	0.1%
+G	Polymorphism	89	88	0	(G)2 -> (G)3	174420	Insertion (tandem repeat)	0.01%
+C	Polymorphism	88	88	1	A -> C	174420	SNP (transversion)	0.01%
+G	Polymorphism	88	88	1	A -> G	174420	SNP (transition)	0.03%
+T	Polymorphism	88	88	1	A -> T	174420	SNP (transversion)	0.03%
+	Polymorphism	88	88	1	-A	174420	Deletion	0.05%
+A	Polymorphism	88	87	0	+A	173105	Insertion	0.01%
+A	Polymorphism	87	87	1	G -> A	173105	SNP (transition)	0.1%
+C	Polymorphism	87	87	1	G -> C	173105	SNP (transversion)	0.01%
+T	Polymorphism	87	87	1	G -> T	173105	SNP (transversion)	0.03%
+	Polymorphism	87	87	1	-G	173105	Deletion	0.001%
+A	Polymorphism	86	86	1	G -> A	172876	SNP (transition)	0.1%
+C	Polymorphism	86	86	1	G -> C	172876	SNP (transversion)	0.01%
+T	Polymorphism	86	86	1	G -> T	172876	SNP (transversion)	0.03%
+	Polymorphism	86	86	1	-G	172876	Deletion	0.1%
+G	Polymorphism	86	85	0	(G)2 -> (G)3	172170	Insertion (tandem repeat)	0.01%
+A	Polymorphism	85	85	1	T -> A	172170	SNP (transversion)	0.01%
+C	Polymorphism	85	85	1	T -> C	172170	SNP (transition)	0.04%
+G	Polymorphism	85	85	1	T -> G	172170	SNP (transversion)	0.003%
+A	Polymorphism	84	84	1	T -> A	171673	SNP (transversion)	0.01%
+C	Polymorphism	84	84	1	T -> C	171673	SNP (transition)	0.04%
+G	Polymorphism	84	84	1	T -> G	171673	SNP (transversion)	0.01%
+A	Polymorphism	83	83	1	C -> A	171451	SNP (transversion)	0.01%
+G	Polymorphism	83	83	1	C -> G	171451	SNP (transversion)	0.1%
+T	Polymorphism	83	83	1	C -> T	171451	SNP (transition)	0.1%
+A	Polymorphism	82	82	1	G -> A	170013	SNP (transition)	0.1%
+C	Polymorphism	82	82	1	G -> C	170013	SNP (transversion)	0.01%
+T	Polymorphism	82	82	1	G -> T	170013	SNP (transversion)	0.03%
