@@ -1,0 +1,25 @@
+MiseqID,Monkey,Sample,Sample ID,wks post SIV,copies/ul,AnimalID,SampleID
+R1_,16314,plasma,,3wk,583.5622233,a,a1
+R2_,16314,plasma,,Nex,142.2391439,a,a2
+R3_,16314,L ing LN,4,Nex,4311.271484,a,a3
+R4_,16314,L cran HLN 1,57,Nex,1930.245117,a,a4
+R5_,16314,R carinal LN gran ,59,Nex,2406.548047,a,a5
+R6_,20615,plasma,,3wk,88542.84583,b,b1
+R7_,20615,plasma,,Nex,,b,b2
+R8_,20615,R ing LN,1,Nex,27874.30417,b,b3
+R9_,20615,L cran HLN 1,15,Nex,5136.74401,b,b4
+R10,20615,central carinal LN gran,51,Nex,11949.90104,b,b5
+R11,3516,plasma,,3wk,23250.214,c,c1
+R12,3516,plasma,,8wk,694.41198,c,c2
+R13,3516,L ing LN,3,Nex,2445.973438,c,c3
+R14,3516,L cran HLN 1,54,Nex,345.3886068,c,c4
+R15,3516,R carinal LN w/ gran ,60,Nex,5948.741927,c,c5
+R16,30816,plasma,,5wk,509,d,d1
+R17,30816,plasma,,Nex,301,d,d2
+R18,30816,R ing LN,12,Nex,6850.802604,d,d3
+R19,30816,L cran HLN 1,23,Nex,1450.973698,d,d4
+R20,30816,L cran HLN 2 gran,28,Nex,1160.06569,d,d5
+R21,3216,plasma,,3wk,14203.35093,e,e1
+R22,3216,plasma,,8wk,454.6411267,e,e2
+R23,3216,R ing LN,1,Nex,58232.9375,e,e3
+R24,3216,R cran HLN 1 gran,24,Nex,2236.416536,e,e4

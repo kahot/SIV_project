@@ -1,0 +1,25 @@
+MiseqID,Monkey,Sample,Sample ID,wks post SIV,copies/ul,AnimalID,SampleID
+R1_,n/a,stock virus,,n/a,SIV,n/a,SIV
+R2_,3816,plasma,,Nex (wk8),SIV only,f,f1
+R3_,3816,L ing LN,3,Nex (wk8),SIV only,f,f2
+R4_,3816,L cran HLN 1,15,Nex (wk8),SIV only,f,f3
+R5_,16314,*RLL gran 6,41,Nex (wk8),Coinfected Latent,a,a6
+R6_,16314,RLL gran 4,43,Nex (wk8),Coinfected Latent,a,a7
+R7_,16314,RLL gran D,45,Nex (wk8),Coinfected Latent,a,a8
+R8_,20615,*RLL gran A,23,Nex (wk6),Coinfected Latent,b,b6
+R9_,31316,*RUL 2,22,Nex (wk8),Coinfected Latent,g,g1
+R10,31316,*RUL 3,23,Nex (wk8),Coinfected Latent,g,g2
+R11,20615,LML,14,Nex (wk6),Coinfected Latent,b,b7
+R12,3516,RLL gran 13,28,Nex (wk9),Coinfected Latent,c,c6
+R13,3516,RLL gran 38,44,Nex (wk9),Coinfected Latent,c,c7
+R14,3616,plasma,,2,SIV only,h,h1
+R15,3616,plasma,,Nex (wk7),SIV only,h,h2
+R16,3616,R ing LN,4,Nex (wk7),SIV only,h,h3
+R17,3616,L cran HLN 1,15,Nex (wk7),SIV only,h,h4
+R18,3316,plasma,,Nex (wk7),SIV only,j,j1
+R19,3316,L ing LN,3,Nex (wk7),SIV only,j,j2
+R20,3316,L cran HLN 1,16,Nex (wk7),SIV only,j,j3
+R21,3816,RLL,13,Nex (wk8),SIV only,f,f4
+R22,4016,plasma,,Nex (wk8),SIV only,k,k1
+R23,4016,L cran HLN 1,15,Nex (wk8),SIV only,k,k2
+R24,4016,LUL,10,Nex (wk8),SIV only,k,k3

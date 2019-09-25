@@ -1,0 +1,49 @@
+MiseqID,Monkey,Sample,Sample2,Sample ID,wks post SIV,copies/ul,AnimalID,SampleID
+R1_,16314,plasma,plasma (3wk),,3wk,583.5622233,a,a1
+R2_,16314,plasma,plasma,,Nex,142.2391439,a,a2
+R3_,16314,L ing LN,L ing LN,4,Nex,4311.271484,a,a3
+R4_,16314,L cran HLN 1,L cran HLN 1,57,Nex,1930.245117,a,a4
+R5_,16314,R carinal LN gran ,R carinal LN gran ,59,Nex,2406.548047,a,a5
+R5_,16314,*RLL gran 6,RLL gran 6,41,Nex (wk8),Coinfected Latent,a,a6
+R6_,16314,RLL gran 4,RLL gran 4,43,Nex (wk8),Coinfected Latent,a,a7
+R7_,16314,RLL gran D,RLL gran D,45,Nex (wk8),Coinfected Latent,a,a8
+R6_,20615,plasma,plasma(3wk),,3wk,88542.84583,b,b1
+R7_,20615,plasma,plasma,,Nex,,b,b2
+R8_,20615,R ing LN,R ing LN,1,Nex,27874.30417,b,b3
+R9_,20615,L cran HLN 1,L cran HLN 1,15,Nex,5136.74401,b,b4
+R10,20615,central carinal LN gran,c.carinal LN gran,51,Nex,11949.90104,b,b5
+R8_,20615,*RLL gran A,RLL gran A,23,Nex (wk6),Coinfected Latent,b,b6
+R11,20615,LML,LML,14,Nex (wk6),Coinfected Latent,b,b7
+R11,3516,plasma,plasma(3wk),,3wk,23250.214,c,c1
+R12,3516,plasma,plasma(8wk),,8wk,694.41198,c,c2
+R13,3516,L ing LN,L ing LN,3,Nex,2445.973438,c,c3
+R14,3516,L cran HLN 1,L cran HLN 1,54,Nex,345.3886068,c,c4
+R15,3516,R carinal LN w/ gran ,R carinal LN w/ gran ,60,Nex,5948.741927,c,c5
+R12,3516,RLL gran 13,RLL gran 13,28,Nex (wk9),Coinfected Latent,c,c6
+R13,3516,RLL gran 38,RLL gran 38,44,Nex (wk9),Coinfected Latent,c,c7
+R16,30816,plasma,plasma(5wk),,5wk,509,d,d1
+R17,30816,plasma,plasma,,Nex,301,d,d2
+R18,30816,R ing LN,R ing LN,12,Nex,6850.802604,d,d3
+R19,30816,L cran HLN 1,L cran HLN 1,23,Nex,1450.973698,d,d4
+R20,30816,L cran HLN 2 gran,L cran HLN 2 gran,28,Nex,1160.06569,d,d5
+R21,3216,plasma,plasma(3wk),,3wk,14203.35093,e,e1
+R22,3216,plasma,plasma(8wk),,8wk,454.6411267,e,e2
+R23,3216,R ing LN,R ing LN,1,Nex,58232.9375,e,e3
+R24,3216,R cran HLN 1 gran,R cran HLN 1 gran,24,Nex,2236.416536,e,e4
+R9_,31316,*RUL 2,RUL 2,22,Nex (wk8),Coinfected Latent,f,f1
+R10,31316,*RUL 3,RUL 3,23,Nex (wk8),Coinfected Latent,f,f2
+R2_,3816,plasma,plasma,,Nex (wk8),SIV only,g,g1
+R3_,3816,L ing LN,L ing LN,3,Nex (wk8),SIV only,g,g2
+R4_,3816,L cran HLN 1,L cran HLN 1,15,Nex (wk8),SIV only,g,g3
+R21,3816,RLL,RLL,13,Nex (wk8),SIV only,g,g4
+R14,3616,plasma,plasma(2wk),,2,SIV only,h,h1
+R15,3616,plasma,plasma,,Nex (wk7),SIV only,h,h2
+R16,3616,R ing LN,R ing LN,4,Nex (wk7),SIV only,h,h3
+R17,3616,L cran HLN 1,L cran HLN 1,15,Nex (wk7),SIV only,h,h4
+R18,3316,plasma,plasma,,Nex (wk7),SIV only,j,j1
+R19,3316,L ing LN,L ing LN,3,Nex (wk7),SIV only,j,j2
+R20,3316,L cran HLN 1,L cran HLN 1,16,Nex (wk7),SIV only,j,j3
+R22,4016,plasma,plasma,,Nex (wk8),SIV only,k,k1
+R23,4016,L cran HLN 1,L cran HLN 1,15,Nex (wk8),SIV only,k,k2
+R24,4016,LUL,LUL,10,Nex (wk8),SIV only,k,k3
+R1_,n/a,stock virus,SIV,,n/a,SIV,n/a,SIV
